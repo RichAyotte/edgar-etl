@@ -22,7 +22,7 @@ yarn
 Clone the repo
 
 ```sh
-git clone https://github.com/RichAyotte/edgar.git
+git clone https://github.com/RichAyotte/edgar-etl.git
 ```
 
 Change to the project directory and install node packages
