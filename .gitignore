@@ -1,7 +1,6 @@
 config/*
 !config/default.js
 *.sublime-project
-incoming/*
 node_modules
 test/coverage
 yarn-error.log
