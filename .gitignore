@@ -1,5 +1,5 @@
-!config/default.js
 config/*
+!config/default.js
 *.sublime-project
 incoming/*
 node_modules
