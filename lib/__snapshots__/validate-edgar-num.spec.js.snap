@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EDGAR numbers validation Emits validation-error 1`] = `
+Array [
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20090331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "CommonStockDividendsPerShareDeclared",
+      "uom": "pure",
+      "value": 0.55,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20080331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "CommonStockDividendsPerShareDeclared",
+      "uom": "pure",
+      "value": 0.55,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20090331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "EarningsPerShareBasic",
+      "uom": "pure",
+      "value": 0.39,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20080331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "EarningsPerShareBasic",
+      "uom": "pure",
+      "value": 0.91,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20090331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "EarningsPerShareDiluted",
+      "uom": "pure",
+      "value": 0.39,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20080331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "EarningsPerShareDiluted",
+      "uom": "pure",
+      "value": 0.9,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+  Object {
+    "data": Object {
+      "adsh": "0001031296-09-000011",
+      "coreg": "",
+      "ddate": 20090331,
+      "footnote": "",
+      "qtrs": 1,
+      "tag": "EarningsPerShareBasic",
+      "uom": "pure",
+      "value": 0.39,
+      "version": "us-gaap/2008",
+    },
+    "error": [TypeError: expecting uom to be "USD" or "shares", got String "pure"],
+  },
+]
+`;

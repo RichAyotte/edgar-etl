@@ -23,6 +23,7 @@ const log = require('./lib/log')
 const parseEdgarNum = require('./lib/parse-edgar-num')
 const populateTestDatabase = require('./lib/populate-test-database')
 const resetTestDatabase = require('./lib/reset-test-database')
+const validateEdgarNum = require('./lib/validate-edgar-num')
 
 const baseIncomingPath = resolvePath('./incoming')
 
@@ -42,7 +43,17 @@ const logInsertError = etlProcessRunId => async error => {
 		, message: JSON.stringify(error)
 		, action: 'Inserting data into numbers table'
 		, status: 'running'
-		, severity: 'warning'
+		, severity: 'error'
+	})
+}
+
+const logValidationError = etlProcessRunId => async error => {
+	await log({
+		etlProcessRunId
+		, message: JSON.stringify(error)
+		, action: 'Validating data in numbers table'
+		, status: 'running'
+		, severity: 'error'
 	})
 }
 
@@ -104,6 +115,8 @@ const main = async () => {
 	})
 	.on('skip', logParseError(etlProcessRunId))
 	.on('error', logParseError(etlProcessRunId))
+	.pipe(validateEdgarNum)
+	.on('validation-error', logValidationError(etlProcessRunId))
 	.pipe(await getEdgarNumTableWritable())
 	.on('insert-error', logInsertError(etlProcessRunId))
 	.on('insert-data', () => {
