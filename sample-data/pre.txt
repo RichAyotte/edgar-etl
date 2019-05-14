@@ -1,0 +1,1001 @@
+adsh	report	line	stmt	inpth	rfile	tag	version	plabel	negating
+0001047469-09-008149	2	8	BS	0	X	DepositsAssetsCurrent	us-gaap/2009	Due from Bayer	0
+0001193125-09-170393	6	11	CF	0	X	GainLossOnSaleOfSecuritiesNet	us-gaap/2008	Net security gains	1
+0001451505-09-000083	5	16	CF	0	X	IncreaseDecreaseInOperatingCapital	us-gaap/2009	Changes in operating assets and liabilities	0
+0001061219-09-000078	1	22	BS	0	X	InterestPayableCurrent	us-gaap/2009	Accrued interest payable	0
+0001047469-09-007341	3	5	BS	0	X	ReceivablesNetCurrent	us-gaap/2009	Receivables, less allowances of $41 and $39 for uncollectible accounts at respective dates	0
+0000818479-09-000123	5	21	EQ	0	X	StockIssuedDuringPeriodValueShareBasedCompensation	us-gaap/2009	Share based compensation expense	0
+0001104659-09-055895	4	22	CF	0	X	NetCashProvidedByUsedInOperatingActivities	us-gaap/2009	Net cash provided by operating activities	0
+0001045810-09-000024	3	11	CF	0	X	PaymentsUnderPatentLicensingArrangement	0001045810-09-000024	Payments under patent licensing arrangement	0
+0000049826-09-000066	4	55	CF	0	X	PaymentsForProceedsFromProductiveAssetsAbstract	us-gaap/2009	Payments for (Proceeds from) Productive Assets [Abstract]	0
+0001193125-09-183589	1	22	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2009	Income taxes	0
+0000950123-09-031364	5	6	CF	0	X	ValuationLosses	0000950123-09-031364	Valuation losses	0
+0001193125-09-155582	1	1	IS	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0000821189-09-000047	2	31	UN	0	X	TaxesPayableAbstract	us-gaap/2008	Taxes Payable [Abstract]	0
+0000950123-09-025125	7	3	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	OPERATING ACTIVITIES	0
+0000950123-09-030860	2	7	IS	0	X	Revenues	us-gaap/2009	Total Revenues and Other Income	0
+0000045012-09-000273	5	10	CF	0	X	IncreaseDecreaseInAccountsPayable	us-gaap/2009	Accounts payable	0
+0000004904-09-000117	2	56	BS	0	X	Liabilities	us-gaap/2009	TOTAL LIABILITIES	0
+0001193125-09-153251	3	10	IS	0	X	InterestExpense	us-gaap/2008	Interest expense	1
+0000950123-09-031164	2	2	BS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001047469-09-007070	1	30	IS	0	X	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2008	Diluted (in shares)	0
+0000950123-09-028100	5	36	CF	0	X	ProceedsFromStockOptionsExercised	us-gaap/2009	Proceeds from exercises of share options	0
+0000047111-09-000038	2	23	BS	0	X	AccruedIncomeTaxesPayable	us-gaap/2008	Accrued income taxes	0
+0001193125-09-170375	4	7	CF	0	X	DepreciationAmortizationAndCostOfTimberHarvested	0001193125-09-170375	Depreciation, amortization and cost of timber harvested	0
+0001144204-09-040507	5	36	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesContinuingOperations	us-gaap/2009	Net Cash Provided by (Used in) Investing Activities, Continuing Operations, Total	0
+0000950123-09-030389	1	34	BS	0	X	InterestAndDividendsPayable	us-gaap/2008	Accrued interest	0
+0001047469-09-007343	1	8	IS	0	X	GainLossOnContractTermination	us-gaap/2009	Gain on buyout of contract and sale of assets	1
+0001393311-09-000025	3	13	IS	0	X	RealEstateRevenueNet	us-gaap/2009	Self-storage facilities	0
+0001193125-09-163901	4	8	CI	0	X	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Comprehensive earnings (loss)	0
+0001047469-09-007317	2	44	BS	0	X	LongTermDebtAndCapitalLeaseObligationsAbstract	us-gaap/2008	Long-term Debt and Capital Lease Obligations [Abstract]	0
+0000950123-09-036965	5	15	CF	0	X	IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets	us-gaap/2009	Prepaid expenses and other current assets	0
+0001193125-09-170623	3	19	IS	0	X	NetOtherThanTemporaryImpairments	0001193125-09-170623	Net loss on OTTI recognized in earnings	1
+0001047469-09-007340	6	48	CF	0	X	PaymentsToAcquireInterestInSubsidiariesAndAffiliates	us-gaap/2009	Purchase of interest in acquired companies	1
+0001193125-09-191566	1	50	BS	0	X	OtherAssetsCurrent	us-gaap/2009	Other current assets	0
+0001193125-09-183869	5	71	CF	0	X	PaymentsOfFinancingCosts	us-gaap/2009	Payments for financing costs	1
+0000950123-09-041558	5	11	CF	0	X	ValueOfGoldDistributedForRedemptionOfShares	0000950123-09-041558	Value of gold distributed for redemption of shares net of gold payable	0
+0001193125-09-170647	7	8	CI	1	X	AccumulatedOtherComprehensiveIncomeMember	us-gaap/2008	ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS):	0
+0000950123-09-030790	5	16	CF	0	X	IncreaseDecreaseInAccountsReceivable	us-gaap/2009	Accounts receivable	0
+0001193125-09-170159	4	19	CF	0	X	PaymentsToAcquireAvailableForSaleSecurities	us-gaap/2008	Purchases of available-for-sale-securities	1
+0001104659-09-046313	1	28	IS	0	X	PreferredStockDividends	us-gaap/2008	Dividend requirements on preferred stock	0
+0000086521-09-000047	1	4	IS	0	X	ParentCompanyMember	us-gaap/2009	Sempra Energy Consolidated	0
+0001104659-09-047410	5	20	CF	0	X	AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities	us-gaap/2009	Net adjustments	0
+0001193125-09-167317	2	8	BS	1	X	CommonStockParOrStatedValuePerShare	us-gaap/2009	Common stock, par value	0
+0000950123-09-031364	7	39	EQ	0	X	StockIssuedDuringPeriodSharesNewIssuesPreferredStock	0000950123-09-031364	Preferred stock issued, shares	0
+0001104659-09-053270	4	44	EQ	0	X	OtherComprehensiveIncomeReclassificationOfDefinedBenefitPlansNetGainLossRecognizedInNetPeriodicBenefitCostBeforeTax	us-gaap/2009	Net actuarial loss	0
+0001140361-09-017883	3	14	IS	0	X	OperatingIncomeLoss	us-gaap/2009	EARNINGS FROM OPERATIONS	0
+0000107815-09-000047	3	31	BS	0	X	CapitalizationAndLiabilitiesAbstract	0000107815-09-000047	Capitalization and Liabilities	0
+0001047469-09-007384	5	57	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and Cash Equivalents at Beginning of Period	0
+0001193125-09-170697	5	46	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2008	Proceeds from issuance of long-term debt	0
+0000016868-09-000037	1	12	IS	0	X	OtherNonoperatingIncomeExpense	us-gaap/2008	Other income	0
+0000018230-09-000331	1	29	IS	0	X	CommonStockDividendsPerShareDeclared	us-gaap/2009	Cash dividends declared per common share	0
+0000950123-09-032159	5	7	CF	0	X	ShareBasedCompensation	us-gaap/2009	Stock-based compensation	0
+0000950123-09-028634	5	27	CF	0	X	RepaymentsOfLongTermDebt	us-gaap/2009	Payments on debt	1
+0000950123-09-032832	4	9	BS	0	X	Securities	0000950123-09-032832	Securities (included $345,534 and $205,909 at fair value at June 30, 2009, and December 31, 2008, respectively, and assets pledged of $95,932 and $25,942 at June 30, 2009, and December 31, 2008, respectively)	0
+0001193125-09-170393	2	5	BS	1	X	CommonStockSharesAuthorized	us-gaap/2008	Common stock, shares authorized	0
+0000950123-09-042090	7	7	CF	0	X	AmortizationOfFinancingCostsAndDiscounts	us-gaap/2009	Amortization and retirement of deferred financing fees and issue discounts	0
+0000950123-09-032702	3	27	IS	0	X	OtherComprehensiveIncomeDerivativesQualifyingAsHedgesBeforeTaxPortionAttributableToParent	us-gaap/2009	Unrealized gain on cash flow hedges	0
+0000950123-09-040810	1	10	CP	0	X	EntityCurrentReportingStatus	dei/2009	Entity Current Reporting Status	0
+0000950123-09-031224	6	22	CF	0	X	ProceedsFromPaymentsForLongTermLoansForRelatedParties	us-gaap/2009	Loans to unconsolidated investees	0
+0000950123-09-028880	4	2	CF	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001193125-09-166495	6	2	CF	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000950123-09-032668	2	38	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2009	Other	0
+0001193125-09-176059	2	27	BS	0	X	LiabilitiesCurrent	us-gaap/2009	Total current liabilities	0
+0001193125-09-159652	4	7	CF	0	X	ImpairmentOfIntangibleAssetsExcludingGoodwill	us-gaap/2008	Franchise impairment charge	0
+0001104659-09-053270	1	16	BS	0	X	AvailableForSaleSecuritiesEquitySecurities	us-gaap/2009	Common and preferred stock available for sale, at fair value (cost: 2009 - $7,030; 2008 - $8,381)	0
+0000950123-09-022892	2	23	IS	0	X	EarningsPerShareBasic	us-gaap/2008	Basic earnings per share attributable to Biogen Idec Inc.	0
+0001193125-09-154939	5	13	CF	0	X	NetCashProvidedByUsedInOperatingActivities	us-gaap/2009	Cash provided by operating activities	0
+0001047469-09-007070	4	45	CF	0	X	ProceedsFromStockOptionsExercised	us-gaap/2008	Proceeds from exercise of share options	0
+0000950123-09-026905	5	25	BS	0	X	CommonStockValue	us-gaap/2009	Common stock, $1.00 par value: 400 shares authorized; 230 shares issued	0
+0000024741-09-000027	5	16	CF	0	X	CustomerDepositsNetOfCreditsIssued	0000024741-09-000027	Customer deposits, net of (credits) issued	0
+0000950123-09-030360	7	47	CF	0	X	RepaymentsOfOtherLongTermDebt	us-gaap/2009	Other long-term borrowings repaid	1
+0000024741-09-000027	4	14	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Beginning balance, December 31, 2008	0
+0001193125-09-169473	4	13	CF	0	X	ShareBasedCompensation	us-gaap/2008	Share-based compensation expense	0
+0000950123-09-028099	1	29	IS	0	X	SalesRevenueNet	us-gaap/2009	Sales Revenue, Net, Total	0
+0001140361-09-017883	1	3	BS	0	X	AssetsAbstract	us-gaap/2009	ASSETS	0
+0000950123-09-027684	5	11	CF	0	X	IncreaseDecreaseInOperatingCapitalAbstract	us-gaap/2009	Changes in other operating assets and liabilities, net of effect of acquisitions:	0
+0000950123-09-026402	5	37	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and equivalents at end of period	0
+0000753308-09-000086	4	50	CF	0	X	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2009	Other - net	0
+0000004904-09-000117	5	26	EQ	0	X	ProfitLoss	us-gaap/2009	Net Income	0
+0000097745-09-000040	4	8	IS	0	X	SellingGeneralAndAdministrativeExpense	us-gaap/2009	Selling, general and administrative expenses	0
+0000950123-09-031993	5	18	EQ	0	X	TotalStockholdersEquity	0000950123-09-031993	Total Shareholders' Equity	0
+0001193125-09-167290	5	7	EQ	0	X	StockIssuedDuringPeriodValueEmployeeStockPurchasePlan	us-gaap/2008	EQR's Employee Share Purchase Plan (ESPP)	0
+0000950123-09-031817	4	83	CF	0	X	ProceedsFromStockOptionsExercised	us-gaap/2009	Proceeds from stock options exercised	0
+0001144204-09-046684	3	2	IS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000912750-09-000056	5	11	EQ	0	X	SharesIssued	us-gaap/2009	Balance, shares	0
+0001193125-09-163543	1	6	BS	0	X	PublicUtilitiesPropertyPlantAndEquipmentGas	0001193125-09-163543	Gas	0
+0001193125-09-162276	6	58	CF	0	X	InterestPaid	us-gaap/2008	Interest Paid	0
+0000950123-09-032660	4	6	CF	0	X	IncomeLossFromContinuingOperations	us-gaap/2009	Income from continuing operations	0
+0000922224-09-000082	1	43	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasicAbstract	us-gaap/2009	Net Income (Loss) Available to PPL Corporation Common Shareowners:	0
+0001193125-09-165503	6	14	CF	0	X	GainLossOnSaleOfPropertyPlantEquipment	us-gaap/2008	Net loss on sale of premises and equipment	1
+0000821189-09-000047	4	24	CF	0	X	RealizedGainslosses	0000821189-09-000047	Realized Gains (Losses)	0
+0001193125-09-167264	5	56	CF	0	X	CashFlowNoncashInvestingAndFinancingActivitiesDisclosureAbstract	us-gaap/2008	Non-cash investing and financing activities:	0
+0000950123-09-032231	5	33	CF	0	X	ProceedsFromSaleOfAvailableForSaleSecurities	us-gaap/2008	Sales of available-for-sale securities	0
+0001193125-09-161831	2	24	BS	0	X	LiabilitiesCurrentAbstract	us-gaap/2008	Current Liabilities:	0
+0001104659-09-046999	5	11	EQ	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-032642	6	36	EQ	0	X	EquityComponentDomain	us-gaap/2009	Equity Component [Domain]	0
+0001193125-09-167317	5	36	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2009	Net cash provided by (used in) financing activities	0
+0001193125-09-169269	6	45	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents, at beginning of period	0
+0001193125-09-169068	2	6	BS	1	X	CommonClassBMember	us-gaap/2008	Class B common stock	0
+0001193125-09-159733	1	55	BS	0	X	CommonClassBMember	us-gaap/2008	Class B common stock	0
+0000950123-09-029919	6	12	CI	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecreaseAbstract	us-gaap/2008	Other Comprehensive Income, Foreign Currency Transaction and Translation Adjustment, Net of Tax, Period Increase (Decrease) [Abstract]	0
+0000934612-09-000042	5	18	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2008	INVESTING ACTIVITIES	0
+0000092122-09-000072	4	57	BS	0	X	LongTermDebtAndCapitalLeaseObligations	us-gaap/2009	Long-term Debt	0
+0001104659-09-046716	4	4	EQ	0	X	ParentMember	us-gaap/2009	Total Stockholders' Equity	0
+0000950123-09-025362	3	1	CF	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0000950123-09-024544	1	4	CP	0	X	DocumentPeriodEndDate	dei/2009	Document Period End Date	0
+0001193125-09-152905	6	14	EQ	0	X	OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax	us-gaap/2008	Unrealized gain/(loss) on derivative instruments, net of tax of ($45) and $93	0
+0001193125-09-162284	2	10	BS	0	X	AssetsCurrent	us-gaap/2009	Total current assets	0
+0000950123-09-022892	4	2	BS	1	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000004904-09-000117	4	15	CF	0	X	GainLossOnDispositionOfAssets	us-gaap/2009	Gain on Sales of Assets, Net	1
+0001104659-09-048036	6	18	EQ	0	X	PartnersCapitalAccountUnitBasedCompensationClassBUnits	0001104659-09-048036	Class B Units of Plains AAP, L.P.	0
+0000950123-09-032832	2	37	IS	0	X	CommonStockDividendsPerShareCashPaid	us-gaap/2008	Cash dividends declared per common share	0
+0000950123-09-031224	5	5	EQ	0	X	MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders	us-gaap/2009	Distributions to noncontrolling interest owners	0
+0001193125-09-170432	1	1	IS	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-166759	3	11	IS	0	X	NonoperatingIncomeExpenseAbstract	us-gaap/2008	Other Income (Expense):	0
+0001104659-09-046982	1	1	BS	0	X	StatementLineItems	us-gaap/2009	Statement - line items	0
+0001104659-09-048741	4	15	CF	0	X	WriteOffOfDeferredDebtIssuanceCost	us-gaap/2009	Write-off of deferred financing costs	0
+0000950123-09-026374	3	9	BS	0	X	AssetsCurrent	us-gaap/2009	Total	0
+0001193125-09-187481	4	31	EQ	0	X	StockIssuedToRelatedPartiesDuringPeriodValue	0001193125-09-187481	Shares issued to Board of Directors	0
+0000092230-09-000076	21	5	CP	0	X	DocumentPeriodEndDate	dei/2008	Document Period End Date	0
+0000950123-09-025178	4	10	CF	0	X	IncreaseDecreaseInOperatingCapital	us-gaap/2009	Other changes in assets and liabilities	1
+0000708819-09-000013	1	1	BS	0	X	StatementTable	us-gaap/2009	Statement Table	0
+0000950123-09-036183	5	36	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Net increase (decrease) in cash and cash equivalents	0
+0000950123-09-030426	3	11	BS	1	X	CommonStockParOrStatedValuePerShare	us-gaap/2009	Common stock, par value	0
+0001047469-09-007070	2	6	BS	0	X	InventoryNet	us-gaap/2008	Inventories	0
+0000950123-09-036965	1	7	CP	0	X	EntityWellKnownSeasonedIssuer	dei/2009	Entity Well-known Seasoned Issuer	0
+0000950123-09-029843	5	2	CF	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001193125-09-159399	2	8	BS	0	X	Supplies	us-gaap/2008	Supplies and other inventories	0
+0000950123-09-039236	2	27	IS	0	X	NetIncomeLossAttributableToNoncontrollingInterest	us-gaap/2009	Total Net Inome Attributable to the Noncontrolling Interest	0
+0000950123-09-024448	2	11	IS	0	X	AssetRetirementObligationAccretionExpense	us-gaap/2009	Accretion	0
+0000950123-09-031224	3	10	BS	1	X	CommonStockSharesIssued	us-gaap/2009	Common stock, shares issued	0
+0001047469-09-007345	2	5	CI	0	X	OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax	us-gaap/2009	Other unrealized holding gains (losses) arising during period, net of income tax expense (benefit) of $(16) million and $(96) million for the three months and $13 million and $(134) million for the six months ended June 30, 2009 and 2008, respectively	0
+0001104659-09-046313	1	17	IS	0	X	PublicUtilitiesAllowanceForFundsUsedDuringConstructionCapitalizedCostOfEquity	us-gaap/2008	Allowance for funds used during construction - equity	0
+0000950123-09-025362	4	17	BS	0	X	OtherAssetsNoncurrent	us-gaap/2009	Other assets	0
+0001031296-09-000021	5	4	CF	0	X	DepreciationNonproduction	us-gaap/2009	Provision for depreciation	0
+0000950123-09-031817	1	6	IS	0	X	IncomeLossBeforeCumulativeEffectOfChangeInAccountingPrincipleAbstract	us-gaap/2009	Income (Loss) before Cumulative Effect of Change in Accounting Principle [Abstract]	0
+0000950123-09-025125	6	6	CI	1	X	OtherComprehensiveIncomePensionAndPostretirementBenefitsTax	0000950123-09-025125	Tax effect on pension and postretirement benefits	0
+0000753308-09-000086	2	36	BS	0	X	TotalCapitalizationAbstract	0000753308-09-000086	CAPITALIZATION	0
+0001104659-09-048054	2	35	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestAbstract	us-gaap/2009	Share owners' equity:	0
+0001169232-09-003553	3	55	CF	0	X	AssetsAcquiredByTheIssuanceOfUnits	0001169232-09-003553	Assets acquired by the issuance of units	0
+0001104659-09-053343	15	5	CP	0	X	AmendmentFlag	dei/2009	Amendment Flag	0
+0000950123-09-029919	5	29	CF	0	X	IncreaseDecreaseInOperatingLiabilities	us-gaap/2008	Increase (Decrease) in Operating Liabilities, Total	0
+0000950123-09-030426	6	8	EQ	1	X	RetainedEarningsMember	us-gaap/2009	Retained Earnings	0
+0001393311-09-000025	1	13	BS	0	X	RealEstateFacilitesNet	0001393311-09-000025	Real estate facilities, net	0
+0000097745-09-000040	4	7	IS	0	X	CostOfServices	us-gaap/2009	Cost of service revenues	0
+0001193125-09-168917	3	13	BS	0	X	DeferredTaxAssetsNetCurrent	us-gaap/2008	Deferred income taxes	0
+0000950123-09-024369	4	13	CF	0	X	AdjustmentsNoncashItemsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesOther	us-gaap/2009	Other items, net	0
+0000930413-09-004048	3	37	BS	0	X	LiabilityForUncertainTaxPositionsNoncurrent	us-gaap/2009	FIN 48 uncertainties and other income tax liabilities	0
+0001104659-09-048013	3	18	BS	0	X	Goodwill	us-gaap/2009	Goodwill	0
+0000950123-09-028851	3	21	BS	0	X	DebtCurrent	us-gaap/2009	Short-Term Debt and Current Maturities of Long-Term Debt	0
+0000107815-09-000047	4	26	CF	0	X	ProceedsFromSaleOfProductiveAssets	us-gaap/2009	Proceeds from asset sales, net	0
+0000950123-09-040810	8	17	UN	0	X	AdditionalPaidInCapitalMember	us-gaap/2009	Additional paid-in capital	0
+0000950123-09-032199	5	31	CF	0	X	ProceedsFromSaleOfAvailableForSalePerpetualSecurities	0000950123-09-032199	Proceeds from securities available for sale, perpetual securities sold	0
+0001193125-09-165368	2	20	BS	0	X	AccountsPayable	us-gaap/2008	Accounts payable	0
+0000950123-09-032022	6	24	EQ	0	X	IssuanceOfSharesInTransactionShares	0000950123-09-032022	Issuance of shares in Transaction, shares	0
+0000950123-09-030360	7	53	CF	0	X	ProceedsFromPaymentsToMinorityShareholders	us-gaap/2009	Noncontrolling interest, net	0
+0001104659-09-048054	2	18	BS	0	X	AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment	us-gaap/2009	Less accumulated depreciation	0
+0001193125-09-168969	1	42	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	0001193125-09-168969	Total permanent equity	0
+0000950123-09-028093	1	8	IS	0	X	SellingGeneralAdministrativeExpenseAsPercentNetSales	0000950123-09-028093	Percent to net sales	0
+0000950123-09-031842	1	19	IS	0	X	DepreciationAndAmortization	us-gaap/2008	Depreciation, depletion and amortization	0
+0001193125-09-163762	1	33	BS	0	X	RetainedEarningsAccumulatedDeficit	us-gaap/2008	Retained earnings	0
+0001104659-09-053343	3	14	IS	0	X	MarketingAndAdvertisingExpense	us-gaap/2009	Advertising and promotion	0
+0001193125-09-154110	7	3	UN	0	X	NetIncomeLoss	us-gaap/2008	Net (loss) income	0
+0001193125-09-158844	2	13	BS	0	X	OtherAssetsNoncurrent	us-gaap/2008	Other assets	0
+0000097216-09-000168	2	31	BS	0	X	AdditionalPaidInCapitalCommonStock	us-gaap/2009	Additional paid-in capital	0
+0000950123-09-033037	5	9	EQ	0	X	OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodBeforeTax	us-gaap/2009	Unrealized gain on derivatives	0
+0001193125-09-170393	1	5	BS	0	X	OtherShortTermInvestments	us-gaap/2008	Short-term investments (note 3)	0
+0000920148-09-000065	1	10	BS	0	X	AssetsCurrent	us-gaap/2009	Total current assets	0
+0001193125-09-158218	1	15	IS	0	X	IncomeLossFromEquityMethodInvestments	us-gaap/2008	Income from equity investments	0
+0000950123-09-030360	7	35	CF	0	X	ProceedsFromCollectionOfRetainedInterestInSecuritizedReceivablesCategorizedAsHeldToMaturity	us-gaap/2009	Return of investment from Retained Interest	0
+0000018230-09-000331	2	9	BS	0	X	PrepaidExpensesAndOtherCurrentAssets	0000018230-09-000331	Prepaid expenses and other current assets	0
+0001193125-09-187481	6	9	CF	0	X	DepreciationAndAmortization	us-gaap/2009	Depreciation and amortization	0
+0000950123-09-030370	4	59	CF	0	X	PaymentsForProceedsFromInvestments	us-gaap/2009	Payments for (Proceeds from) Investments, Total	0
+0001193125-09-156564	2	35	BS	0	X	DebtCurrent	us-gaap/2009	Current portion of long-term debt	0
+0000950123-09-029196	3	92	IS	0	X	NetEarningsAttributableToControllingInterests	0000950123-09-029196	Consolidated net earnings	0
+0001393311-09-000025	6	58	CF	0	X	ProceedsFromPaymentsToMinorityShareholdersAbstract	us-gaap/2009	Proceeds from (Payments to) Noncontrolling Interests [Abstract]	0
+0001193125-09-164943	6	26	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2008	CASH PROVIDED BY / (USED IN) FINANCING ACTIVITIES	0
+0001193125-09-154691	4	2	CF	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000753308-09-000086	1	3	IS	0	X	Revenues	us-gaap/2009	OPERATING REVENUES	0
+0001193125-09-166661	3	27	IS	0	X	NetIncomeLoss	us-gaap/2008	NET INCOME	0
+0001193125-09-161831	6	5	CF	0	X	AdjustmentsToReconcileIncomeLossToNetCashProvidedByUsedInContinuingOperationsAbstract	us-gaap/2008	Adjustments to Reconcile Net Income Attributable to CNX Gas Shareholders to Net Cash Provided by Operating Activities:	0
+0000950123-09-029196	5	107	CF	0	X	ProceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNetAbstract	us-gaap/2008	Proceeds from Issuance of Long-term Debt and Capital Securities, Net [Abstract]	0
+0001193125-09-163543	3	11	IS	0	X	FuelCosts	us-gaap/2008	Fuel	0
+0001047469-09-007384	29	12	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity Common Stock, Shares Outstanding	0
+0001193125-09-167271	6	51	EQ	0	X	AdjustmentsToAdditionalPaidInCapitalReallocationOfMinorityInterest	us-gaap/2008	Adjustment for Noncontrolling Interests ownership in Operating Partnership	0
+0000950123-09-040810	6	8	EQ	0	X	OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease	us-gaap/2009	Defined benefit plans liability adjustment	0
+0001122304-09-000091	1	9	IS	0	X	Revenues	us-gaap/2009	Total revenue	0
+0000930413-09-003869	2	22	IS	0	X	OperatingExpensesAbstract	us-gaap/2009	Operating Expenses [Abstract]	0
+0001047469-09-007400	7	39	UN	0	X	MinorityInterest	us-gaap/2009	Noncontrolling interest	0
+0001193125-09-157960	3	18	IS	0	X	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2008	Weighted average number of common and potential common shares	0
+0001104659-09-048135	2	7	BS	1	X	TreasuryStockShares	us-gaap/2009	Treasury stock held (in shares)	0
+0000950123-09-029713	6	89	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and Cash Equivalents at End of Period	0
+0001145443-09-001878	1	16	BS	0	X	RealEstateInvestmentPropertyAtCostAbstract	us-gaap/2009	Real Estate Investment Property, at Cost [Abstract]	0
+0000950123-09-031596	5	15	CF	0	X	DeferredIncomeTaxExpenseBenefit	us-gaap/2009	Deferred tax provision	0
+0000950123-09-032328	2	28	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2009	Deferred income taxes	0
+0000950123-09-031774	2	2	BS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001094093-09-000184	4	42	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents at beginning of period	0
+0000950123-09-039364	3	37	BS	0	X	AdditionalPaidInCapitalCommonStock	us-gaap/2009	Additional paid-in capital	0
+0001193125-09-170623	6	15	CF	0	X	IncreaseDecreaseInOperatingCapitalAbstract	us-gaap/2008	Changes in assets and liabilities:	0
+0001193125-09-166495	6	27	CF	0	X	AdjustmentsToReconcileToIncomeLossFromContinuingOperationsAbstract	us-gaap/2008	Reconciliation of net earnings to net cash provided by operating activities:	0
+0001047469-09-007341	1	14	IS	0	X	OtherNonoperatingExpense	us-gaap/2009	Other nonoperating deductions	1
+0001193125-09-167626	3	7	BS	1	X	CommonStockParOrStatedValuePerShare	us-gaap/2008	Common stock, par value	0
+0000277948-09-000113	1	10	IS	0	X	OperatingExpenses	us-gaap/2008	Total Expense	0
+0001047469-09-007300	1	13	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments	us-gaap/2009	Earnings before income taxes and equity in loss of investee companies	0
+0001104659-09-047977	19	12	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity Common Stock, Shares Outstanding	0
+0000950123-09-030790	3	1	BS	1	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001122304-09-000091	5	10	CF	0	X	ChangesInAssetsAndLiabilities	0001122304-09-000091	Changes In Assets And Liabilities	0
+0000950123-09-034092	3	2	BS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001047469-09-007036	5	11	EQ	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000950123-09-029309	2	26	BS	0	X	LongTermDebtNoncurrent	us-gaap/2009	Long-term debt	0
+0001193125-09-169196	1	62	IS	0	X	IncomeLossFromContinuingOperationsPerDilutedShare	us-gaap/2009	Income from continuing operations	0
+0001104659-09-046329	18	12	CP	0	X	EntityPublicFloat	dei/2009	Entity Public Float	0
+0000918160-09-000029	2	15	BS	0	X	InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVenturesFairValueDisclosure	us-gaap/2009	Investment in AFSG	0
+0001193125-09-158218	6	13	CI	1	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001047469-09-007134	2	45	BS	0	X	CommonStockValue	us-gaap/2009	Common stock	0
+0001193125-09-162276	1	4	BS	0	X	CashAndDueFromBanks	us-gaap/2008	Cash and Due from Banks	0
+0000950123-09-030360	1	12	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity Common Stock, Shares Outstanding (actual number)	0
+0001104659-09-048741	26	17	CP	0	X	EntityPublicFloat	dei/2009	Entity Public Float	0
+0000950123-09-039236	2	37	IS	0	X	WeightedAverageCommonSharesOutstanding	0000950123-09-039236	Weighted Average Common Shares Outstanding	0
+0001193125-09-156797	2	24	BS	0	X	DueToRelatedPartiesCurrent	us-gaap/2009	Accounts payable to related parties (Note 24)	0
+0001193125-09-160870	2	47	BS	0	X	TreasuryStockValue	us-gaap/2008	Treasury stock, at cost (88 million shares as of June 30, 2009 and December 31, 2008)	1
+0000950123-09-027011	3	4	BS	0	X	CommonStockMember	us-gaap/2009	Common Stock [Member]	0
+0001157523-09-005715	3	9	BS	0	X	ReceivablesForInvestmentSecuritiesSold	0001157523-09-005715	Receivable for Investment Securities Sold	0
+0001193125-09-166979	2	16	BS	0	X	LiabilitiesCurrentAbstract	us-gaap/2008	Current liabilities:	0
+0000097745-09-000040	2	35	BS	0	X	PreferredStockValue	us-gaap/2009	Preferred stock, $100 par value, 50,000 shares authorized; none issued	0
+0000950123-09-029919	5	14	CF	0	X	EmployeeBenefitsAndShareBasedCompensation	us-gaap/2008	Employee Benefits and Share-based Compensation, Total	0
+0001193125-09-186163	3	3	BS	1	X	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2008	Interest-bearing deposits in other banks, federal funds sold and securities purchased under resale agreements	0
+0001193125-09-167271	1	14	BS	0	X	RestrictedCashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Deposits - restricted	0
+0000007332-09-000030	6	110	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Increase (Decrease) in Cash and Cash Equivalents	0
+0000950123-09-028634	5	7	CF	0	X	IncomeLossFromEquityMethodInvestments	us-gaap/2009	Equity income from affiliates	1
+0000950123-09-027482	1	6	CP	0	X	AmendmentDescription	dei/2009	Amendment Description	0
+0000950123-09-025362	4	13	BS	0	X	AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment	us-gaap/2009	Less accumulated depreciation	0
+0001193125-09-171667	2	7	BS	0	X	AccountsReceivableNetCurrent	us-gaap/2008	Accounts receivable, net of allowance for doubtful accounts of $4,559 at July 3, 2009 and $3,110 at September 26, 2008	0
+0000950123-09-029495	7	28	CF	0	X	IncreaseDecreaseInOtherOperatingLiabilities	us-gaap/2009	Other current liabilities	1
+0000930413-09-003976	6	88	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2009	Net Cash Used In Financing Activities	0
+0001193125-09-167264	2	12	BS	1	X	PreferredStockSharesAuthorized	us-gaap/2008	Preferred stock, shares authorized	0
+0001047469-09-007036	1	15	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeAndMinorityInterest	0001047469-09-007036	Income (loss) from continuing operations before income taxes and minority interest	0
+0000950123-09-045262	5	21	CF	0	X	ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities	us-gaap/2009	Proceeds from sales and maturities of available-for-sale securities	0
+0000950123-09-030389	5	112	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents, end of period	0
+0001193125-09-163543	6	6	CI	1	X	OtherComprehensiveIncomeReclassificationAdjustmentForUnrealizedLossesIncludedInRegulatoryAssetsTax	0001193125-09-163543	Reclassification adjustment for unrealized losses included in regulatory assets, taxes	0
+0000950123-09-031901	4	24	IS	0	X	SupplementalInformationAbstract	0000950123-09-031901	Supplemental information:	0
+0000067716-09-000112	4	28	CF	0	X	RepaymentsOfLongTermDebt	us-gaap/2009	Repayment of long-term debt	1
+0001193125-09-167069	1	17	BS	0	X	Goodwill	us-gaap/2008	Goodwill	0
+0001193125-09-166759	3	13	IS	0	X	InvestmentIncomeNet	us-gaap/2008	Investment income (loss), net	0
+0000038074-09-000041	1	25	BS	0	X	AccountsPayable	us-gaap/2008	Accounts payable	0
+0001104659-09-046716	4	7	EQ	0	X	AdditionalPaidInCapitalMember	us-gaap/2009	Additional Paid-in Capital	0
+0000950123-09-031054	2	29	BS	0	X	AdditionalPaidInCapitalCommonStock	us-gaap/2009	Additional paid-in capital	0
+0001130310-09-000035	2	31	BS	0	X	InterestPayable	us-gaap/2009	Interest accrued	0
+0000950123-09-027003	1	10	CP	0	X	EntityCurrentReportingStatus	dei/2009	Entity Current Reporting Status	0
+0001193125-09-168068	3	5	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents	0
+0001193125-09-165506	6	1	CP	0	X	DocumentType	dei/2009	Document Type	0
+0001104659-09-047410	5	36	CF	0	X	PaymentsForRepurchaseOfCommonStock	us-gaap/2009	Acquisition of treasury stock	1
+0000950123-09-031596	4	5	IS	0	X	CostOfGoodsAndServicesSold	us-gaap/2009	Cost of operations	0
+0000029915-09-000044	1	16	IS	0	X	NetIncomeLossFromContinuingOperations	0000029915-09-000044	Net Income (Loss) from Continuing Operations	0
+0001104659-09-052248	4	33	CF	0	X	RepaymentsOfLongTermDebt	us-gaap/2009	Payments of long-term borrowings	1
+0000950123-09-029196	4	3	EQ	0	X	EquityComponentDomain	us-gaap/2008	Equity Component [Domain]	0
+0000045012-09-000273	1	26	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity	us-gaap/2009	Income (loss) from discontinued operations, net	0
+0001047469-09-007345	5	10	EQ	0	X	StockholdersEquityPeriodIncreaseDecrease	us-gaap/2009	Period increase (decrease)	0
+0000950123-09-025125	1	7	CP	0	X	CurrentFiscalYearEndDate	dei/2009	Current Fiscal Year End Date	0
+0000018230-09-000331	1	23	IS	0	X	NetIncomeLoss	us-gaap/2009	Profit	0
+0000950123-09-038497	2	57	IS	0	X	EarningsPerShareDilutedAbstract	us-gaap/2009	Earnings Per Share, Diluted [Abstract]	0
+0001193125-09-152905	5	38	CF	0	X	ProceedsFromShortAndLongTermBorrowings	0001193125-09-152905	New borrowings	0
+0001193125-09-168068	3	18	BS	0	X	OtherAssetsNoncurrent	us-gaap/2008	Other	0
+0001104659-09-047410	5	50	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents at beginning of period	0
+0000882835-09-000033	4	7	EQ	0	X	AccumulatedOtherComprehensiveIncomeMember	us-gaap/2009	Accumulated other comprehensive earnings	0
+0001193125-09-161831	1	13	IS	0	X	DirectOperatingCostRoyaltyExpense	us-gaap/2008	Royalty Interest Gas Costs	0
+0000950123-09-025362	5	2	BS	1	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-042709	5	10	CF	0	X	DeferredIncomeTaxExpenseBenefit	us-gaap/2009	Deferred income taxes	0
+0001047469-09-007411	5	36	CF	0	X	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2009	Other, net	0
+0001169232-09-003553	2	55	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2009	Total Liabilities and Partners' Capital	0
+0001393311-09-000025	1	3	BS	0	X	ClassOfStockDomain	us-gaap/2009	Class of Stock [Domain]	0
+0000915389-09-000055	1	29	IS	0	X	OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease	us-gaap/2009	Total other comprehensive income (loss)	0
+0001047469-09-007342	4	18	BS	0	X	OtherAssetsNoncurrentAbstract	us-gaap/2009	Other Assets	0
+0000950123-09-030389	3	13	IS	0	X	SalesRevenueServicesNet	us-gaap/2008	Service and other revenues	0
+0001193125-09-167155	3	11	IS	0	X	DepreciationAmortizationAndAccretionNet	us-gaap/2008	Depreciation, amortization and accretion	0
+0001193125-09-166495	1	8	BS	0	X	RetailRelatedInventoryMerchandise	us-gaap/2008	Merchandise inventories	0
+0001354488-09-001699	2	34	BS	0	X	OtherAssetsNoncurrent	us-gaap/2009	Other assets	0
+0000092230-09-000076	6	30	CF	0	X	AmortizationOfFinancingCostsAndDiscounts	us-gaap/2008	Discount Accretion and Premium Amortization on Long-term Debt, Net	0
+0001193125-09-153889	4	13	BS	0	X	Goodwill	us-gaap/2008	Goodwill	0
+0000918160-09-000029	4	31	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Net decrease in cash and cash equivalents	0
+0000950123-09-029713	6	18	CF	0	X	ExplorationAbandonmentAndImpairmentExpense	us-gaap/2008	Dry hole costs and leasehold impairments	0
+0000040545-09-000049	4	13	BS	0	X	PremiumsAndOtherReceivablesNet	us-gaap/2009	Other GECS receivables	0
+0001144204-09-043912	3	19	IS	0	X	EarningsPerShareDiluted	us-gaap/2009	Diluted	0
+0001193125-09-158470	1	28	BS	0	X	StockholdersEquityAbstract	us-gaap/2008	Stockholders' Equity:	0
+0000950123-09-031817	4	41	CF	0	X	IncreaseDecreaseInInventoriesAbstract	us-gaap/2009	Increase (Decrease) in Inventories [Abstract]	0
+0001193125-09-153203	4	32	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2008	Net increase in cash and cash equivalents	0
+0001193125-09-191566	5	50	CF	0	X	NoncashOrPartNoncashDivestituresLiabilitiesExtinguishedDueToSaleOfAssets	0001193125-09-191566	Liabilities extinguished due to sale of assets	0
+0001193125-09-163299	6	10	CF	0	X	AssetImpairmentCharges	us-gaap/2008	Impairments	0
+0001004980-09-000057	1	18	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2009	Income tax provision	0
+0001047469-09-007400	4	50	EQ	0	X	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Total comprehensive income (loss)	0
+0000891092-09-003150	4	19	CF	0	X	IncomeLossFromEquityMethodInvestmentsNetOfDividendsOrDistributionsAbstract	us-gaap/2009	Income (Loss) from Equity Method Investments, Net of Dividends or Distributions [Abstract]	0
+0000950123-09-030370	4	55	CF	0	X	PaymentsToAcquireInvestments	us-gaap/2009	Payments to Acquire Investments, Total	0
+0000950123-09-029613	5	23	CF	0	X	ProceedsFromSaleMaturityAndCollectionsOfInvestments	us-gaap/2009	Proceeds from sales of securities	0
+0001193125-09-170002	3	4	BS	1	X	AvailableForSaleSecuritiesNonredeemablePreferredStockCost	0001193125-09-170002	Nonredeemable preferred stocks, cost	0
+0000950123-09-032665	2	6	IS	0	X	OtherIncome	us-gaap/2009	Other Revenues	0
+0001193125-09-168492	4	3	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2008	Operating Activities	0
+0001193125-09-191566	1	42	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents	0
+0001193125-09-165464	5	15	EQ	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax	us-gaap/2008	Foreign currency translation	0
+0001193125-09-167276	5	1	CF	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-168937	1	21	BS	0	X	LiabilitiesCurrentAbstract	us-gaap/2008	Current liabilities:	0
+0001193125-09-168492	2	23	BS	0	X	PropertyPlantAndEquipmentNet	us-gaap/2008	Total property, plant and equipment, net	0
+0001193125-09-156797	4	20	CF	0	X	ForeignCurrencyTranslationEffects	0001193125-09-156797	Foreign currency translation	1
+0001104659-09-047200	3	21	IS	0	X	GainLossOnInvestments	us-gaap/2009	Gain on sale of investment securities	0
+0000909281-09-000056	4	86	CF	0	X	PaymentOfFinancingAndStockIssuanceCostsAbstract	us-gaap/2009	Payment of Financing and Stock Issuance Costs [Abstract]	0
+0000950123-09-032467	4	32	IS	0	X	InvestmentIncomeInterest	us-gaap/2009	Interest income	0
+0000753308-09-000086	1	15	IS	0	X	AllowanceForEquityFundsUsedDuringConstruction	0000753308-09-000086	Allowance for equity funds used during construction	0
+0001193125-09-170756	6	52	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2008	Net cash used in financing activities	0
+0000704051-09-000121	7	3	CF	0	X	ProfitLoss	us-gaap/2009	Net income (loss)	0
+0001140361-09-019899	1	12	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity common stock, shares outstanding	0
+0001004980-09-000057	2	15	BS	0	X	PrepaidExpensesAndOther	0001004980-09-000057	Prepaid expenses and other	0
+0001140361-09-019899	4	4	BS	1	X	PreferredStockSharesAuthorized	us-gaap/2009	Preferred stock, shares authorized	0
+0000797468-09-000095	1	17	BS	0	X	AccountsPayableCurrent	us-gaap/2009	Accounts payable	0
+0001193125-09-165373	3	25	IS	0	X	CurrentIncomeTaxExpenseBenefit	us-gaap/2008	Current	0
+0001193125-09-167271	5	23	CF	0	X	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2008	(Increase) in other assets	1
+0000950123-09-031199	6	29	CF	0	X	RestructuringCostsAndAssetImpairmentChargesAbstract	us-gaap/2009	Restructuring Costs and Asset Impairment Charges [Abstract]	0
+0000950123-09-038240	2	13	IS	0	X	RealizedInvestmentGainsLossesAbstract	us-gaap/2009	Net Realized Capital Gains (Losses)	0
+0000950123-09-028717	3	4	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents	0
+0000950123-09-030860	6	27	CF	0	X	ProceedsFromRepaymentsOfShortTermDebt	us-gaap/2009	Net (payments) borrowings of short-term obligations	0
+0000950123-09-041984	4	24	EQ	0	X	StockIssuedDuringPeriodValueEmployeeStockPurchasePlan	us-gaap/2009	-- Employee stock purchase plan	0
+0001193125-09-170760	6	7	CF	0	X	PaymentsToAcquireInvestments	us-gaap/2008	Purchases of investments	1
+0001193125-09-167160	4	33	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2009	Share-based compensation excess tax benefit	0
+0000950123-09-033506	5	2	CF	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000922224-09-000082	1	18	IS	0	X	OtherCostOfServices	us-gaap/2009	Other operation and maintenance	0
+0001104659-09-046329	3	3	BS	1	X	TreasuryStockShares	us-gaap/2009	Treasury stock, shares	0
+0000950123-09-025125	1	8	CP	0	X	EntityWellKnownSeasonedIssuer	dei/2009	Entity Well-known Seasoned Issuer	0
+0000950123-09-027787	3	49	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Total equity	0
+0000217346-09-000117	3	1	BS	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001193125-09-190034	3	33	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2009	Excess tax benefits from stock-based compensation	0
+0001193125-09-168413	4	18	CI	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease	us-gaap/2008	Foreign exchange translation adjustments, net of tax	0
+0001393311-09-000025	3	34	IS	0	X	ProfitLoss	us-gaap/2009	Net income	0
+0000950123-09-032668	2	16	BS	0	X	AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment	us-gaap/2009	Less accumulated depletion, depreciation and impairment	1
+0001193125-09-169378	2	26	BS	0	X	StockholdersEquityAbstract	us-gaap/2008	Stockholders' equity:	0
+0001193125-09-167271	6	52	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	0001193125-09-167271	Balance, end of period	0
+0001104659-09-048013	1	8	IS	0	X	InterestExpense	us-gaap/2009	Interest expense	0
+0001193125-09-165391	1	18	BS	0	X	LiabilitiesAndStockholdersEquityAbstract	us-gaap/2008	LIABILITIES AND SHAREHOLDERS' EQUITY	0
+0001193125-09-167317	3	26	IS	0	X	EarningsPerShareDilutedAbstract	us-gaap/2009	Diluted income (loss) per share attributable to VeriSign, Inc. and subsidiaries common stockholders from:	0
+0000950123-09-033037	2	20	BS	0	X	Goodwill	us-gaap/2009	Goodwill	0
+0000950123-09-040810	1	9	CP	0	X	EntityVoluntaryFilers	dei/2009	Entity Voluntary Filers	0
+0001193125-09-168935	3	45	BS	0	X	StockholdersEquity	us-gaap/2008	Total shareholders' equity	0
+0000950123-09-031199	6	74	CF	0	X	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2009	Other, net	0
+0001104659-09-046901	5	1	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Cash flows from operating activities:	0
+0001193125-09-168564	4	51	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Current assets	0
+0001193125-09-170375	1	9	IS	0	X	RestructuringAndOtherCharges	0001193125-09-170375	Restructuring and other charges	0
+0001104659-09-053270	1	42	BS	0	X	PolicyholderContractDeposits	us-gaap/2009	Policyholder contract deposits (portion measured at fair value: 2009 - $7,273; 2008 - $5,458)	0
+0001193125-09-189281	4	19	CF	0	X	IncreaseDecreaseInLeaseIncentivesAndOtherLongTermLiabilities	0001193125-09-189281	Lease incentives and other long-term liabilities	0
+0000950123-09-031224	4	25	IS	0	X	IncomeLossFromEquityMethodInvestments	us-gaap/2009	Income from equity investments	0
+0000314808-09-000067	2	71	IS	0	X	EarningsPerShareDiluted	us-gaap/2009	Total earnings (loss) per common share - diluted	0
+0000950123-09-032467	2	14	BS	0	X	AssetsNoncurrentAbstract	us-gaap/2009	Noncurrent Assets:	0
+0001193125-09-158140	1	14	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2008	Provision for income taxes	0
+0000821189-09-000047	1	12	IS	0	X	OilAndGasRevenueAbstract	us-gaap/2008	Net Operating Revenues	0
+0000092230-09-000076	1	44	BS	0	X	ShortTermBorrowings	us-gaap/2008	Federal funds purchased, securities sold under repurchase agreements and short-term borrowed funds	0
+0001047469-09-007400	4	19	EQ	0	X	ScenarioAdjustmentMember	us-gaap/2009	Adjustment	0
+0000060086-09-000039	3	15	IS	0	X	OtherIncome	us-gaap/2009	Other	0
+0001193125-09-167271	6	40	EQ	0	X	AdjustmentsToAdditionalPaidInCapitalStockIssuedIssuanceCosts	us-gaap/2008	Offering costs	1
+0001193125-09-168935	5	2	EQ	0	X	StatementEquityComponentsAxis	us-gaap/2008	Statement, Equity Components [Axis]	0
+0000922224-09-000082	1	1	IS	0	X	StatementTable	us-gaap/2009	Statement Table	0
+0001104659-09-048234	26	8	CP	0	X	EntityVoluntaryFilers	dei/2009	Entity Voluntary Filers	0
+0000950123-09-045366	2	21	BS	0	X	LongTermDebtAndCapitalLeaseObligations	us-gaap/2009	Long-term debt	0
+0000092380-09-000027	1	11	BS	0	X	AssetsCurrent	us-gaap/2008	Total current assets	0
+0000897101-09-001829	4	31	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2009	Other long-term liabilities	0
+0001193125-09-163822	1	16	IS	0	X	DerivativeGainsLossesNet	0001193125-09-163822	Derivative gains/(losses), net	0
+0000950123-09-029196	3	25	IS	0	X	CostOfRealEstateRevenueAbstract	us-gaap/2008	Expenses	0
+0000950123-09-028093	2	30	BS	0	X	BuildingsAndImprovementsGross	us-gaap/2008	Buildings	0
+0000950123-09-033506	6	15	EQ	0	X	DividendsCommonStockCash	us-gaap/2009	Cash dividends on Common Stock	0
+0000950123-09-022892	5	24	CF	0	X	PaymentsToAcquireMarketableSecurities	us-gaap/2008	Purchases of marketable securities	0
+0001193125-09-191566	5	1	CF	0	X	RepaymentsOfProceedsFromRevolvingCreditFacilities	0001193125-09-191566	Borrowings (repayments) under the revolving credit facilities, net	0
+0001193125-09-166759	6	7	CI	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease	us-gaap/2008	Cumulative translation adjustments	0
+0000950123-09-031993	6	1	EQ	1	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-168607	4	50	CF	0	X	SupplementalCashFlowInformationAbstract	us-gaap/2008	Supplemental Disclosures:	0
+0001274494-09-000019	2	14	IS	0	X	InterestExpense	us-gaap/2009	Interest expense, net	1
+0001104659-09-052668	4	25	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesContinuingOperations	us-gaap/2009	Net cash provided by operating activities	0
+0000092230-09-000076	3	28	IS	0	X	InterestExpenseShortTermBorrowingsAbstract	us-gaap/2008	Interest Expense, Short-term Borrowings [Abstract]	0
+0001169232-09-003553	2	35	BS	0	X	UnsecuredLongTermDebt	us-gaap/2009	Long-term debt Outstanding	0
+0000950123-09-032199	1	38	IS	0	X	RestructuringSettlementAndImpairmentProvisionsAbstract	us-gaap/2009	Restructuring, Settlement and Impairment Provisions [Abstract]	0
+0000950123-09-032832	5	10	BS	1	X	DepositsAtFairValue	0000950123-09-032832	Deposits, at fair value	0
+0000950123-09-029190	2	8	BS	0	X	HeldForInvestmentAtAmortizedCost	0000950123-09-029190	Held-for-investment, at amortized cost (net of valuation allowances of $543 and $304, respectively)	0
+0001193125-09-160797	2	6	BS	0	X	AccountsReceivableNetCurrent	us-gaap/2008	Customer receivables (less allowance for doubtful accounts of $35 and $32)	0
+0001193125-09-168965	4	17	CF	0	X	ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities	us-gaap/2008	Proceeds from sales and maturities of available-for-sale securities	0
+0000950123-09-044076	4	21	CF	0	X	PrincipalPaymentsOnDebt	0000950123-09-044076	Principal payments on debt	0
+0001193125-09-170393	1	33	BS	0	X	Deposits	us-gaap/2008	Total deposits	0
+0000950123-09-026987	5	1	BS	1	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0000950123-09-025033	1	10	CP	0	X	EntityCurrentReportingStatus	dei/2008	Entity Current Reporting Status	0
+0000060667-09-000096	1	21	BS	0	X	LongTermDebtNoncurrent	us-gaap/2009	Long-term debt, excluding current maturities	0
+0000930413-09-003976	6	62	CF	0	X	ProceedsFromSaleOfProductiveAssets	us-gaap/2009	Proceeds from Sale of Productive Assets, Total	0
+0000950123-09-040402	3	34	IS	0	X	OperatingExpensesAbstract	us-gaap/2009	Operating Expenses [Abstract]	0
+0000891092-09-003150	4	32	CF	0	X	PaymentsForProceedsFromProductiveAssetsAbstract	us-gaap/2009	Payments for (Proceeds from) Productive Assets [Abstract]	0
+0001193125-09-170830	4	16	CF	0	X	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2009	Other assets	1
+0001047469-09-007341	5	43	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Net decrease in cash and equivalents	0
+0001193125-09-169479	4	4	EQ	0	X	PreferredStockMember	us-gaap/2008	Preferred Stock	0
+0000882835-09-000033	3	13	CF	0	X	NetCashProvidedByUsedInInvestingActivities	us-gaap/2009	Cash used in investing activities	0
+0001104659-09-051984	4	42	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2009	Proceeds from issuance of long-term debt	0
+0000950123-09-031164	2	17	BS	0	X	Goodwill	us-gaap/2009	Goodwill	0
+0001193125-09-154174	4	1	BS	1	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-159615	1	15	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments	us-gaap/2008	Income from continuing operations before income taxes	0
+0001193125-09-165642	5	13	EQ	0	X	AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation	us-gaap/2008	Change in tax benefit from share-based payment arrangements	0
+0000016868-09-000037	4	39	CF	0	X	IncomeTaxesPaidNet	us-gaap/2008	Income taxes	1
+0001193125-09-167626	2	27	BS	0	X	LongTermDebtNoncurrent	us-gaap/2008	Long-term debt	0
+0001193125-09-166917	3	28	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2008	Deferred income taxes	0
+0001193125-09-159652	1	8	IS	0	X	OperatingIncomeLoss	us-gaap/2008	Operating income (loss)	0
+0001045810-09-000024	2	3	BS	0	X	AssetsAbstract	us-gaap/2009	ASSETS	0
+0001193125-09-169196	1	15	IS	0	X	NoninterestIncomeOtherOperatingIncome	us-gaap/2009	Other	0
+0001193125-09-163901	6	34	CF	0	X	EffectOfExchangeRateOnCashAndCashEquivalents	us-gaap/2009	Effect of exchange rates on cash	0
+0001193125-09-158214	4	33	CF	0	X	ProceedsFromSaleOfShortTermInvestments	us-gaap/2008	Proceeds from sales of other invested assets	0
+0001104659-09-048013	3	19	BS	0	X	OtherAssetsNoncurrent	us-gaap/2009	Deferred Income Taxes and Other Assets	0
+0000950123-09-027630	5	29	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2009	Proceeds from issuance of long-term debt	0
+0000950123-09-040810	5	20	CF	0	X	ProceedsFromSaleOfOtherInvestments	us-gaap/2009	Proceeds from sales of other investment securities	0
+0001193125-09-169196	5	26	EQ	0	X	OtherComprehensiveIncomeReclassificationAdjustmentsAndOther	0001193125-09-169196	Reclassification adjustment/other	1
+0000950123-09-027003	1	7	CP	0	X	CurrentFiscalYearEndDate	dei/2009	Current Fiscal Year End Date	0
+0001193125-09-158140	2	10	BS	0	X	AssetsCurrent	us-gaap/2008	Total current assets	0
+0000950123-09-024912	5	28	CF	0	X	PaymentsToAcquireOtherInvestments	us-gaap/2008	Purchases of strategic investments	1
+0001193125-09-189177	3	6	CF	0	X	IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Income from continuing operations	0
+0000950123-09-030370	1	6	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents	0
+0000950123-09-028100	2	36	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2009	Other non-current liabilities	0
+0001193125-09-187625	2	3	BS	1	X	TreasuryStockShares	us-gaap/2008	Treasury stock, shares	0
+0000950123-09-041984	4	6	EQ	0	X	RetainedEarningsMember	us-gaap/2009	Retained Earnings	0
+0001193125-09-172858	6	49	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents, end of period	0
+0000007332-09-000030	6	1	CF	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001193125-09-167264	2	1	BS	1	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0000086521-09-000047	2	19	BS	0	X	DeferredTaxAssetsNetCurrent	us-gaap/2009	Deferred income taxes	0
+0000950123-09-030335	3	5	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesContinuingOperationsAbstract	us-gaap/2009	OPERATING ACTIVITIES:	0
+0000950123-09-027482	6	17	EQ	0	X	StockRepurchasedDuringPeriodShares	us-gaap/2009	Common stock repurchases, shares (in thousands)	0
+0000950123-09-028099	2	35	BS	0	X	ShortTermBorrowings	us-gaap/2009	Short-term borrowings	0
+0001193125-09-187824	4	34	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2008	Excess Tax Benefits from Share-based Compensation	0
+0001193125-09-165368	4	28	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents at end of period	0
+0000950123-09-032642	2	53	BS	0	X	StockholdersEquity	us-gaap/2009	Key shareholders' equity	0
+0001104659-09-048234	4	5	CF	0	X	DeferredIncomeTaxExpenseBenefit	us-gaap/2009	Deferred income taxes	0
+0001047469-09-007317	1	21	IS	0	X	UpgradeAndRetentionCosts	0001047469-09-007317	Upgrade and retention costs	0
+0000909281-09-000056	1	47	IS	0	X	MinorityInterestInNetIncomeLossOfConsolidatedEntitiesAbstract	us-gaap/2009	Net Income (Loss) Attributable to Noncontrolling Interest [Abstract]	0
+0001193125-09-166495	3	4	IS	0	X	SalesRevenueNet	us-gaap/2008	Sales	0
+0000950123-09-030426	2	3	BS	0	X	AssetsAbstract	us-gaap/2009	ASSETS	0
+0001193125-09-159678	2	21	BS	1	X	ClassCCommonStockMember	0001193125-09-159678	Class C common stock	0
+0001193125-09-158844	2	21	BS	0	X	SalesAndTaxesOtherThanIncome	0001193125-09-158844	Sales and taxes other than income	0
+0001104659-09-045198	2	32	BS	0	X	DeferredCompensationLiabilityCurrent	us-gaap/2009	Compensation and benefits	0
+0001104659-09-053343	3	2	IS	0	X	RevenuesAbstract	us-gaap/2009	REVENUE:	0
+0001104659-09-045570	1	18	IS	0	X	ProfitLoss	us-gaap/2009	Net income	0
+0001193125-09-158214	5	15	EQ	0	X	NonCreditPortionOfOtherThanTemporaryImpairmentsRecognizedInOtherComprehensiveIncome	0001193125-09-158214	Non-credit component of other-than-temporary impairment losses on investments, net of taxes	1
+0000821189-09-000047	1	56	IS	0	X	OtherNonoperatingIncomeExpense	us-gaap/2008	Other Income, Net	0
+0000950123-09-042090	2	39	BS	0	X	CommonStockValue	us-gaap/2009	Class A common stock - $.001 par value; authorized 300,000 shares; 164,661, 163,843 and 163,653 shares issued and outstanding, respectively	0
+0001104659-09-052321	2	37	BS	0	X	CommonStockSharesOutstanding	us-gaap/2009	Common shares outstanding	0
+0000950123-09-028634	5	28	CF	0	X	PaymentsForRepurchaseOfCommonStock	us-gaap/2009	Purchases of treasury stock	1
+0001047469-09-007075	2	15	BS	0	X	LongTermDebtCurrent	us-gaap/2009	Current portion of long-term borrowings	0
+0001047469-09-007400	2	9	BS	0	X	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2009	Federal funds sold and securities borrowed or purchased under agreements to resell (including $73,755 and $70,305 as of June 30, 2009 and December 31, 2008, respectively, at fair value)	0
+0001193125-09-168564	3	9	BS	1	X	CommonStockSharesOutstanding	us-gaap/2008	Common stock, shares outstanding	0
+0000950123-09-032642	1	1	CP	0	X	EntityRegistrantName	dei/2009	Entity Registrant Name	0
+0001157523-09-005715	7	31	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2009	Cash flows from investing activities:	0
+0001104659-09-048741	1	12	BS	0	X	SeriesACumulativeConvertiblePreferredStockMember	0001104659-09-048741	Series A Cumulative Convertible Preferred Stock	0
+0000950123-09-026820	3	6	BS	1	X	CommonStockSharesOutstanding	us-gaap/2009	Common stock, shares outstanding	0
+0000912750-09-000056	2	8	UN	0	X	CommonStockSharesAuthorized	us-gaap/2009	Common stock, shares authorized	0
+0001193125-09-170647	2	1	BS	1	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-160729	4	7	CF	0	X	AmortizationOfContentLibrary	0001193125-09-160729	Amortization of content library	0
+0001047469-09-007107	5	16	CF	0	X	IncreaseDecreaseInInventories	us-gaap/2009	Inventories	1
+0000007332-09-000030	6	98	CF	0	X	PaymentOfFinancingAndStockIssuanceCostsAbstract	us-gaap/2009	Payment of Financing and Stock Issuance Costs [Abstract]	0
+0001193125-09-167160	4	14	CF	0	X	IncreaseDecreaseInAccountsPayableAndAccruedLiabilities	us-gaap/2009	Accounts payable and other accrued liabilities	0
+0001193125-09-168881	1	25	BS	0	X	UnearnedPremiums	us-gaap/2009	Unearned premiums	0
+0001193125-09-190034	2	9	IS	0	X	AmortizationOfIntangibleAssets	us-gaap/2009	Amortization of acquired intangible assets	0
+0001193125-09-154888	1	39	IS	0	X	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2008	Diluted	0
+0001193125-09-163472	3	31	IS	0	X	EarningsPerShareDilutedAbstract	us-gaap/2008	Diluted earnings per share:	0
+0001193125-09-168917	2	23	CF	0	X	IncreaseDecreaseInInventories	us-gaap/2008	Materials, supplies and fuel	1
+0000753308-09-000086	1	14	IS	0	X	IncomeLossFromEquityMethodInvestments	us-gaap/2009	Equity in earnings of equity method investees	0
+0000092122-09-000072	4	11	BS	0	X	OtherAccountsAndNotesReceivable	0000092122-09-000072	Other accounts and notes receivable	0
+0001193125-09-168607	5	1	EQ	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0000950123-09-030360	7	29	CF	0	X	PaymentsToAcquireAvailableForSaleSecurities	us-gaap/2009	Purchases of available-for-sale securities	1
+0001193125-09-169479	4	16	EQ	0	X	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2008	Change in unrealized gains (losses) on securities, net of taxes	0
+0001393311-09-000025	3	11	IS	0	X	GrossProfitAbstract	us-gaap/2009	Gross Profit [Abstract]	0
+0001061219-09-000078	4	12	CI	0	X	OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease	us-gaap/2009	Total other comprehensive income (loss)	0
+0001193125-09-169196	6	13	CI	1	X	PreferredStockDividendsPerSharePaid	0001193125-09-169196	Dividends on preferred stock, per share	0
+0000950123-09-040402	4	15	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Beginning balance	0
+0000950123-09-029672	1	1	CP	0	X	EntityRegistrantName	dei/2009	Entity Registrant Name	0
+0001104659-09-044741	17	3	CP	0	X	DocumentType	dei/2009	Document Type	0
+0001193125-09-170697	3	2	EQ	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001193125-09-168413	3	1	IS	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001193125-09-168564	2	21	BS	0	X	AssetsNoncurrentAbstract	us-gaap/2008	Non-Current Assets	0
+0000950123-09-028100	6	3	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Beginning Balance	0
+0000038074-09-000041	3	2	IS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001140361-09-017928	29	2	CP	0	X	AmendmentFlag	dei/2009	Amendment Flag	0
+0001104659-09-053270	1	62	BS	0	X	StockholdersEquityAbstract	us-gaap/2009	AIG shareholders' equity:	0
+0001193125-09-169068	5	18	CF	0	X	IncreaseDecreaseInAccountsPayable	us-gaap/2008	Accounts payable	0
+0001104659-09-045570	2	21	CF	0	X	PaymentsToAcquireAvailableForSaleSecurities	us-gaap/2009	Investment in available-for-sale securities	1
+0000950123-09-038201	1	54	IS	0	X	EarningsPerShareBasicAbstract	us-gaap/2009	Basic:	0
+0000950123-09-031492	4	12	IS	0	X	CostOfServicesAmortization	us-gaap/2009	Amortization of purchased technology	0
+0000950123-09-031842	1	2	IS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001104659-09-047410	5	45	CF	0	X	WithdrawalFromContractHoldersFunds	us-gaap/2009	Investment contract withdrawals	1
+0000801898-09-000131	4	39	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and Cash Equivalents at End of Period	0
+0000950123-09-032022	7	3	EQ	1	X	EntityDomain	dei/2009	Entity [Domain]	0
+0001193125-09-165196	4	14	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2008	CASH FLOWS FROM FINANCING ACTIVITIES	0
+0001193125-09-167427	5	8	CF	0	X	DeferredIncomeTaxExpenseBenefit	us-gaap/2009	Provision for deferred taxes	0
+0000950123-09-028975	5	11	CF	0	X	AmortizationOfIntangibleAssets	us-gaap/2009	Amortization of intangibles	0
+0001145443-09-001878	1	48	BS	0	X	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2009	Accumulated other comprehensive income	0
+0001193125-09-165131	4	21	CF	0	X	CapitalizedComputerSoftwarePeriodIncreaseDecrease	us-gaap/2008	Capitalization of software development costs	0
+0001144204-09-046684	4	12	CF	0	X	ProvisionForDoubtfulAccounts	us-gaap/2009	Provision for doubtful accounts	0
+0000950123-09-024544	1	6	CP	0	X	AmendmentDescription	dei/2009	Amendment Description	0
+0000950123-09-041984	6	50	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesContinuingOperations	us-gaap/2009	Net cash provided by operating activities	0
+0001047469-09-007036	4	28	CF	0	X	PaymentsForAccountsPurchasedFromDealerProgram	0001047469-09-007036	Accounts purchased from ADT dealer program	1
+0000950123-09-031364	3	39	IS	0	X	NetIncomeLoss	us-gaap/2009	Net loss attributable to Fannie Mae	0
+0000950123-09-031774	4	12	IS	0	X	CostOfGoodsAndServicesSoldAbstract	us-gaap/2009	Cost of sales:	0
+0000007332-09-000030	6	80	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2009	Excess Tax Benefit for Stock-Based Compensation	0
+0001193125-09-168917	2	17	CF	0	X	DeferredRevenueForProjects	0001193125-09-168917	Deferred revenue - Fort Martin scrubber project	0
+0001193125-09-170830	4	3	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Operating cash flows:	0
+0000040545-09-000049	4	42	BS	0	X	RetainedEarningsAccumulatedDeficit	us-gaap/2009	Retained earnings	0
+0001193125-09-172858	6	26	CF	0	X	IncreaseDecreaseInInterestPayableNet	us-gaap/2008	Interest payable	0
+0001122304-09-000091	2	39	BS	0	X	SeparateAccountsLiability	us-gaap/2009	Separate Accounts liabilities	0
+0001104659-09-047320	5	24	CF	0	X	PaymentsToAcquireOtherRealEstate	us-gaap/2008	Purchases of investments, real estate	1
+0001193125-09-165503	4	18	EQ	0	X	OtherComprehensiveIncomeNetUnrealizedGainsAndLossesOnSecuritiesNotOtherThanTemporarilyImpairedNetOfTax	0001193125-09-165503	Net change in unrealized gains and losses on securities available for sale, net of tax and reclassification adjustment	1
+0000950123-09-032328	1	11	CP	0	X	EntityPublicFloat	dei/2009	Entity Public Float	0
+0000950123-09-025125	2	28	BS	0	X	LongTermDebtCurrent	us-gaap/2009	Current portion of long-term debt	0
+0000950123-09-032231	3	68	BS	0	X	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2008	Accumulated other comprehensive income/(loss) (net of tax)	0
+0000950123-09-042709	1	12	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity Common Stock Shares Outstanding	0
+0001193125-09-175285	6	28	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2008	Long-term debt proceeds	0
+0000950123-09-030415	3	28	BS	0	X	StockholdersEquityAbstract	us-gaap/2009	Stockholders' equity:	0
+0000950123-09-030415	1	11	CP	0	X	EntityPublicFloat	dei/2009	Entity Public Float	0
+0000072207-09-000031	3	46	IS	0	X	SellingGeneralAndAdministrativeExpense	us-gaap/2008	Selling, General and Administrative Expense, Total	0
+0001193125-09-163543	7	27	EQ	0	X	ParentCompanyMember	us-gaap/2008	CONSOLIDATED EDISON INC	0
+0000950123-09-028880	2	25	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2009	Other noncurrent liabilities	0
+0000950123-09-029190	5	20	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Ending Balance	0
+0001193125-09-170002	1	25	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2008	Provision for income taxes	0
+0001140361-09-017288	4	26	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2009	Net cash used in financing activities	0
+0001104659-09-046999	4	10	CF	0	X	OtherThanTemporaryImpairmentsAndProvisionForLoanLosses	0001104659-09-046999	Other-than-temporary impairments recognized in net investment income and provision for loan losses	0
+0000950123-09-041361	3	35	IS	0	X	CommonStockDividendsPerShareDeclared	us-gaap/2008	Dividends paid per share	0
+0001193125-09-166495	6	28	CF	0	X	NetIncomeLoss	us-gaap/2008	Net earnings	0
+0001047469-09-006994	1	4	IS	0	X	SellingExpense	us-gaap/2009	Selling	0
+0001193125-09-158140	1	12	IS	0	X	NonoperatingIncomeExpense	us-gaap/2008	Financial expenses - net	1
+0001047469-09-007013	4	15	CF	0	X	PaymentsToAcquireInvestments	us-gaap/2009	Purchases of other investments	1
+0000950123-09-032191	8	2	CF	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-038201	2	29	BS	0	X	AssetsNoncurrentAbstract	us-gaap/2009	Assets, Noncurrent [Abstract]	0
+0001193125-09-158007	4	1	CF	0	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001354488-09-001699	2	40	BS	0	X	LongTermAccountsNotesAndLoansReceivableNetNoncurrentAbstract	us-gaap/2009	Accounts, Notes, Loans and Financing Receivable, Net, Noncurrent [Abstract]	0
+0001193125-09-163726	1	30	BS	0	X	CommitmentsAndContingencies	us-gaap/2008	Commitments and contingencies	0
+0000821189-09-000047	1	68	IS	0	X	EarningsPerShareBasic	us-gaap/2008	Basic	0
+0001193125-09-191566	1	20	BS	0	X	LiabilitiesCurrentAbstract	us-gaap/2009	CURRENT LIABILITIES	0
+0001193125-09-183589	1	16	IS	0	X	SellingGeneralAndAdministrativeExpense	us-gaap/2009	Selling, general and administrative	0
+0000059558-09-000113	1	6	BS	0	X	AvailableForSaleSecuritiesDebtSecurities	us-gaap/2009	Fixed maturity available-for-sale securities, at fair value (amortized cost: 2009 - $58,567; 2008 - $54,381)	0
+0000086521-09-000047	1	3	IS	0	X	EntityDomain	dei/2009	Sempra Energy	0
+0000950123-09-025033	6	29	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2008	Proceeds from long-term debt	0
+0001104659-09-052321	2	6	BS	0	X	InventoryNet	us-gaap/2009	Inventory	0
+0000950123-09-033506	5	7	CF	0	X	AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Adjustments to reconcile net income to cash provided by operating activities of continuing operations:	0
+0001039684-09-000053	2	57	BS	0	X	DeferredCreditsAndOtherLiabilities	0001039684-09-000053	Deferred credits and other liabilities	0
+0001193125-09-154417	1	16	IS	0	X	NetIncomeLossAttributableToNoncontrollingInterest	us-gaap/2009	Less: Noncontrolling interest in subsidiaries' earnings	0
+0001104659-09-047410	1	25	BS	0	X	OtherAssets	us-gaap/2009	Other assets	0
+0000950123-09-030389	5	2	CF	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001104659-09-045198	2	7	BS	0	X	AccountsNotesAndLoansReceivableNetCurrent	us-gaap/2009	Notes and accounts receivable - trade (net of allowances of $241 in 2009 and $226 in 2008)	0
+0001104659-09-046982	2	34	IS	0	X	InvestmentIncomeInterest	us-gaap/2009	Investment income	0
+0001193125-09-170340	2	26	BS	0	X	TaxesPayable	us-gaap/2008	Income and other taxes	0
+0001193125-09-160240	1	38	BS	0	X	AdditionalPaidInCapital	us-gaap/2008	Additional paid-in capital	0
+0000950123-09-030389	2	3	BS	1	X	PreferredStockSharesAuthorized	us-gaap/2008	Undesignated Preferred Stock, Shares, Authorized	0
+0001130310-09-000035	3	33	CF	0	X	NetCashProvidedByUsedInInvestingActivities	us-gaap/2009	Net cash used in investing activities	0
+0001193125-09-165464	3	22	IS	0	X	ProfitLoss	0001193125-09-165464	Net income	0
+0000037748-09-000037	1	32	IS	0	X	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2009	Shares used to calculate Net income (loss) per share - Diluted	0
+0000950123-09-029613	4	28	IS	0	X	WeightedAverageNumberOfSharesOutstandingAbstract	us-gaap/2009	Weighted average number of shares outstanding:	0
+0000950123-09-022892	3	32	BS	0	X	CommitmentsAndContingencies	us-gaap/2008	Commitments and contingencies	0
+0000930413-09-003987	3	14	BS	0	X	AssetsCurrent	us-gaap/2009	Total current assets	0
+0001140361-09-017883	4	20	CF	0	X	IncreaseDecreaseInDeferredRevenue	us-gaap/2009	Increase (decrease) in deferred revenue	0
+0000950123-09-029495	5	2	EQ	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-022892	3	11	BS	0	X	InventoryNet	us-gaap/2008	Inventory	0
+0000831259-09-000076	1	9	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents	0
+0001193125-09-186163	3	16	BS	1	X	NetUnrealizedPensionAndOtherPostretirementBenefitCostsTax	0001193125-09-186163	Net unrealized pension and other postretirement benefit costs, tax	0
+0000912750-09-000056	19	1	CP	0	X	DocumentType	dei/2009	Document Type	0
+0001193125-09-174453	4	7	CF	0	X	AmortizationOfIntangibleAssets	us-gaap/2009	Amortization of intangible assets	0
+0000950123-09-025178	4	42	CF	0	X	ProceedsFromStockOptionsExercised	us-gaap/2009	Common share issuances under stock-based compensation plans	0
+0001193125-09-167427	1	29	IS	0	X	NetIncomeLoss	us-gaap/2009	NET INCOME ATTRIBUTABLE TO THE AES CORPORATION	0
+0000950123-09-028975	3	22	BS	0	X	AccountsPayableCurrent	us-gaap/2009	Accounts payable	0
+0000097216-09-000168	23	10	CP	0	X	EntityFilerCategory	dei/2009	Entity Filer Category	0
+0001193125-09-169479	4	41	EQ	0	X	SharesOutstanding	0001193125-09-169479	Ending Balance	0
+0001193125-09-187824	2	14	BS	0	X	Assets	us-gaap/2008	Total Assets	0
+0001193125-09-163472	3	18	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTax	us-gaap/2008	Earnings from discontinued operations, net of income taxes	0
+0000950123-09-027787	3	43	BS	0	X	AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPensionAndOtherPostretirementPlansNetOfTax	us-gaap/2009	Postretirement benefits liability adjustment	1
+0001193125-09-160729	3	1	BS	1	X	StatementTable	us-gaap/2008	Statement [Table]	0
+0001047469-09-007317	2	37	BS	0	X	LongTermDebtCurrentAbstract	us-gaap/2008	Long-term Debt, Current [Abstract]	0
+0001104659-09-048222	4	32	EQ	0	X	SharesIssued	us-gaap/2009	Shares issued, balance	0
+0001451505-09-000083	1	2	IS	0	X	RevenueOilAndGasServices	us-gaap/2009	Contract drilling revenues	0
+0001193125-09-174453	3	10	IS	0	X	OperatingExpensesAbstract	us-gaap/2009	Operating expenses:	0
+0001193125-09-153752	1	27	BS	0	X	LongTermDebtNoncurrent	us-gaap/2008	Long-term debt	0
+0001193125-09-156720	4	27	CF	0	X	RepositioningAndOtherInvestments	0001193125-09-156720	Repositionings and other investments	1
+0001193125-09-165473	2	20	BS	0	X	DeferredTaxAssetsNetNoncurrent	us-gaap/2008	Deferred Tax Asset	0
+0000950123-09-031677	1	31	BS	0	X	LiabilitiesAbstract	us-gaap/2009	Liabilities [Abstract]	0
+0000950123-09-028717	5	31	CF	0	X	CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations	us-gaap/2008	Net cash provided by discontinued operations from operating activities	0
+0001354488-09-001699	4	117	CF	0	X	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2009	Jackpot annuity purchases/investments,net	0
+0000950123-09-029672	6	1	CF	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0000092230-09-000076	6	2	CF	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001104659-09-046999	4	16	CF	0	X	IncreaseDecreaseInBrokerageCustomerDeposits	0001104659-09-046999	Brokerage deposits	0
+0001104659-09-051984	4	18	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2009	Cash flows from investing activities	0
+0000950123-09-028069	3	13	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesContinuingOperations	us-gaap/2009	Net cash flows from (used in) operating activities	0
+0000950123-09-027154	2	25	BS	0	X	AccountsPayableCurrent	us-gaap/2009	Accounts payable and current portion of film contracts payable	0
+0001193125-09-162171	2	7	BS	0	X	InventoryNet	us-gaap/2008	Inventories	0
+0000950123-09-029387	3	12	BS	0	X	OilAndGasPropertiesNetUsingFullCostMethodOfAccounting	0000950123-09-029387	Oil and gas properties, net, using the full cost method of accounting:	0
+0001193125-09-170830	5	15	EQ	0	X	StockIssuedDuringPeriodValueShareBasedCompensation	us-gaap/2009	Issuance of shares under stock compensation plans and employee stock purchase plans	0
+0001193125-09-169473	4	15	CF	0	X	LitigationExpense	0001193125-09-169473	Litigation charges	0
+0000950123-09-032262	1	6	CP	0	X	CurrentFiscalYearEndDate	dei/2009	Current Fiscal Year End Date	0
+0000950123-09-031164	2	6	BS	0	X	MarketableSecuritiesCurrent	us-gaap/2009	Marketable securities (including restricted cash of $0 at June 30, 2009 and $1,669 at December 31, 2008)	0
+0001193125-09-167626	2	6	BS	0	X	AccountsReceivableNetCurrent	us-gaap/2008	Accounts receivable, less allowance of $222,067 and $211,222	0
+0001104659-09-047320	5	42	CF	0	X	Cash	us-gaap/2008	Cash at end of period	0
+0000818479-09-000123	5	15	EQ	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentBeforeTaxPeriodIncreaseDecrease	us-gaap/2009	Foreign currency translation adjustment	0
+0000885721-09-000063	5	20	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2009	Cash flows from financing activities:	0
+0001104659-09-044741	2	8	BS	1	X	CommonStockSharesIssued	us-gaap/2009	Common stock, shares issued (in shares)	0
+0001140361-09-017288	1	9	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments	us-gaap/2009	Income before income taxes	0
+0000049826-09-000066	3	44	BS	0	X	LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent	us-gaap/2009	Liabilities held for sale	0
+0000950123-09-026861	2	31	IS	0	X	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2009	Basic	0
+0000950123-09-031677	1	28	BS	0	X	OtherAssetsNoncurrent	us-gaap/2009	Other assets	0
+0001193125-09-163901	3	2	IS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-041558	5	1	CF	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001193125-09-166920	2	8	BS	1	X	CommonStockSharesAuthorized	us-gaap/2008	Common stock, shares authorized	0
+0001193125-09-170340	3	18	EQ	0	X	OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease	us-gaap/2008	Changes in defined benefit and other postretirement plans	0
+0000049826-09-000066	2	76	IS	0	X	IncomeLossBeforeCumulativeEffectOfChangeInAccountingPrinciplePerDilutedShareAbstract	us-gaap/2009	Income (Loss) before Cumulative Effect of Change in Accounting Principle, Per Diluted Share [Abstract]	0
+0001193125-09-175285	6	10	CF	0	X	RestructuringCostsAndAssetImpairmentCharges	us-gaap/2008	Asset impairment and exit costs, net of cash paid	0
+0000950123-09-032262	1	10	CP	0	X	EntityFilerCategory	dei/2009	Entity Filer Category	0
+0000950123-09-031364	3	41	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2009	Net loss available to common stockholders	0
+0000950123-09-025033	2	12	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2008	Provision for income taxes	0
+0001193125-09-153752	1	32	BS	0	X	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2008	Accumulated other comprehensive loss	0
+0000950123-09-045262	5	31	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Decrease in cash and cash equivalents	0
+0001047469-09-007382	1	27	BS	0	X	LiabilitiesCurrent	us-gaap/2009	Total current liabilities	0
+0001193125-09-170760	4	41	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2008	TOTAL LIABILITIES AND COMMON STOCKHOLDERS' INVESTMENT	0
+0001393311-09-000025	1	40	BS	0	X	EquitySharesValue	0001393311-09-000025	Equity Shares of beneficial interest, Series A, $0.01 par value, 100,000,000 shares authorized, 8,377.193 shares issued and outstanding	0
+0000060086-09-000039	5	22	EQ	0	X	Other	0000060086-09-000039	Other	0
+0000821189-09-000047	4	44	CF	0	X	IncreaseDecreaseInOperatingLiabilitiesAbstract	us-gaap/2008	Increase (Decrease) in Operating Liabilities [Abstract]	0
+0001193125-09-170002	7	4	CP	0	X	DocumentPeriodEndDate	dei/2008	Document Period End Date	0
+0001104659-09-048635	4	2	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	CASH FLOWS FROM OPERATING ACTIVITIES	0
+0000047111-09-000038	3	5	UN	0	X	CommonStockAdditionalSeriesSharesIssued	us-gaap/2008	Class B Common Stock, shares issued (in shares)	0
+0001193125-09-169068	5	7	CF	0	X	PensionAndOtherPostretirementBenefitExpense	us-gaap/2008	Pension and postretirement benefit expense	0
+0000950123-09-029713	6	54	CF	0	X	PaymentsToAcquireReceivablesAbstract	us-gaap/2008	Payments to Acquire Receivables [Abstract]	0
+0000950123-09-028100	4	9	IS	0	X	OperatingExpensesAbstract	us-gaap/2009	Operating expenses:	0
+0001047469-09-007345	6	3	CF	0	X	ProfitLoss	us-gaap/2009	Net Income	0
+0000950123-09-031774	7	7	EQ	1	X	StatementEquityComponentsAxis	us-gaap/2009	Statement, Equity Components [Axis]	0
+0001193125-09-154939	1	7	CP	0	X	EntityRegistrantName	dei/2009	Entity registrant name	0
+0001104659-09-045874	1	1	IS	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000097216-09-000168	2	1	BS	0	X	AssetsAbstract	us-gaap/2009	Assets:	0
+0001039684-09-000053	1	36	IS	0	X	InterestAndDebtExpense	us-gaap/2009	Interest and Debt Expense, Total	0
+0000950123-09-029196	3	50	IS	0	X	OperatingCostsAndExpenses	us-gaap/2008	Operating Costs and Expenses, Total	0
+0001193125-09-169479	4	33	EQ	0	X	StockIssuedDuringPeriodSharesRestrictedStockAwardNetOfForfeitures	us-gaap/2008	Performance and restricted stock activity	0
+0000950123-09-028851	5	29	CF	0	X	LongTermDebtRepaid	0000950123-09-028851	Long-term Debt Repaid	0
+0000950123-09-031224	6	24	CF	0	X	NetCashProvidedByUsedInInvestingActivities	us-gaap/2009	Net cash used in investing activities	0
+0001193125-09-155929	6	26	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2008	Cash flows from financing activities:	0
+0001193125-09-190034	1	6	BS	0	X	RestrictedCashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Restricted cash	0
+0000060667-09-000096	6	11	CF	0	X	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2009	Other operating assets	1
+0001193125-09-170393	4	10	EQ	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001193125-09-163822	2	12	BS	0	X	LiabilitiesAbstract	us-gaap/2009	Liabilities:	0
+0000060086-09-000039	6	21	CF	0	X	PaymentsToAcquireMarketableSecurities	us-gaap/2009	Purchases of fixed maturities	0
+0001193125-09-171667	2	6	BS	0	X	RestrictedCashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Restricted cash	0
+0000950123-09-028880	4	12	CF	0	X	ShareBasedCompensation	us-gaap/2009	Equity-based compensation	0
+0001193125-09-165473	2	37	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2008	Deferred Tax Liability	0
+0000950123-09-026374	5	20	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2009	Property acquisitions	1
+0000107815-09-000047	2	9	IS	0	X	PropertyAndRevenueTaxes	0000107815-09-000047	Property and revenue taxes	0
+0001104659-09-047320	20	3	CP	0	X	EntityRegistrantName	dei/2008	Entity Registrant Name	0
+0001193125-09-155582	1	11	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2008	Income tax expense	1
+0000950123-09-032270	6	29	EQ	0	X	NoncontrollingInterestMember	us-gaap/2009	Noncontrolling Interest in Subsidiaries	0
+0001193125-09-195193	1	30	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2009	Deferred tax liabilities	0
+0001144204-09-040507	5	32	CF	0	X	PaymentsToAcquireBusinessesNetOfCashAcquiredAbstract	us-gaap/2009	Payments to Acquire Businesses, Net of Cash Acquired [Abstract]	0
+0001104659-09-048054	2	23	BS	0	X	DebtCurrent	us-gaap/2009	Short-term loans and long-term debt due within one year	0
+0000950123-09-040151	5	36	CF	0	X	CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations	us-gaap/2009	Net Cash Provided by Financing Activities - Discontinued Operation	0
+0000950123-09-030946	2	32	BS	0	X	RetainedEarningsAccumulatedDeficit	us-gaap/2009	Retained earnings	0
+0001193125-09-167155	3	4	IS	0	X	OperatingLeasesIncomeStatementLeaseRevenue	us-gaap/2008	Rental and management	0
+0000950123-09-026861	3	11	BS	0	X	PrepublicationCostsNetOfAccumulatedAmortization	0000950123-09-026861	Prepublication costs (net of accumulated amortization)	0
+0000950123-09-031901	5	40	CF	0	X	EffectOfExchangeRateOnCashAndCashEquivalents	us-gaap/2009	Effect of foreign exchange rate changes on cash	0
+0000950123-09-029309	1	9	CP	0	X	EntityCurrentReportingStatus	dei/2009	Entity Current Reporting Status	0
+0000950123-09-040145	3	33	BS	0	X	CommonStockValue	us-gaap/2009	Common stock	0
+0000885721-09-000063	1	19	BS	0	X	LiabilitiesCurrentAbstract	us-gaap/2009	Current liabilities:	0
+0001145443-09-001878	2	8	BS	1	X	CommonStockSharesAuthorized	us-gaap/2009	Common Stock, Shares Authorized	0
+0001047469-09-007342	6	23	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesContinuingOperations	us-gaap/2009	Operating cash flow from continuing operations	0
+0000950123-09-039236	7	3	CI	0	X	ProfitLoss	us-gaap/2009	Net income	0
+0001193125-09-163543	6	8	CI	1	X	ParentCompanyMember	us-gaap/2008	CONSOLIDATED EDISON INC	0
+0000950123-09-025125	6	7	CI	1	X	OtherComprehensiveIncomePensionAndPostretirementBenefitsReclassificationTax	0000950123-09-025125	Tax effect on pension and postretirement benefits reclassified to earnings	0
+0001193125-09-154691	1	30	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2008	Total liabilities and stockholders' equity	0
+0000930413-09-003987	4	24	CF	0	X	RestructuringCostsAbstract	us-gaap/2009	Restructuring Costs [Abstract]	0
+0000950123-09-040402	3	35	IS	0	X	SellingGeneralAndAdministrativeExpenseAbstract	us-gaap/2009	Selling, General and Administrative Expense [Abstract]	0
+0001047469-09-007340	4	36	BS	0	X	ShortTermBorrowings	us-gaap/2009	Short-term debt	0
+0000950123-09-032668	2	48	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2009	Total liabilities and stockholders' equity	0
+0000950123-09-032414	1	39	IS	0	X	DeferredIncomeTaxExpenseBenefitAbstract	us-gaap/2009	Deferred Income Tax Expense (Benefit) [Abstract]	0
+0001104659-09-047214	3	28	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2009	Deferred income taxes	0
+0000950123-09-022892	2	18	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments	us-gaap/2008	Income before income tax expense	0
+0000950123-09-026632	3	18	IS	0	X	IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Income from continuing operations	0
+0001193125-09-170159	3	20	IS	0	X	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax	us-gaap/2008	Foreign currency translation adjustment	0
+0001193125-09-168802	5	13	CF	0	X	AssetRetirementObligationAccretionExpense	us-gaap/2008	Accretion of asset retirement obligations	0
+0001047469-09-007382	1	6	BS	0	X	DeferredTaxAssetsNetCurrent	us-gaap/2009	Deferred income taxes	0
+0001193125-09-168802	5	34	CF	0	X	PaymentsForReductionsOfNonrecourseDebtOfSubsidiary	0001193125-09-168802	Decrease in nonrecourse debt of a subsidiary	1
+0000909281-09-000056	6	23	CI	0	X	OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract	us-gaap/2009	Other Comprehensive Income (Loss), Net of Tax [Abstract]	0
+0001157523-09-005774	5	14	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2009	Investing Activities	0
+0001047469-09-007345	4	17	BS	0	X	IntangibleAssetsNoncurrent	0001047469-09-007345	Long-term intangible assets	0
+0000950123-09-029613	2	39	BS	0	X	StockholdersEquity	us-gaap/2009	Equity attributable to Discovery Communications, Inc.	0
+0001354488-09-001699	4	23	CF	0	X	RestructuringCostsAndAssetImpairmentChargesAbstract	us-gaap/2009	Restructuring Costs and Asset Impairment Charges [Abstract]	0
+0001193125-09-156564	1	30	IS	0	X	EarningsPerShareDiluted	us-gaap/2009	Net earnings per share of Viacom	0
+0001047469-09-007340	1	32	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare	us-gaap/2009	Discontinued operations (in dollars per share)	0
+0000950123-09-025033	1	11	CP	0	X	EntityFilerCategory	dei/2008	Entity Filer Category	0
+0001193125-09-168413	3	20	IS	0	X	CommissionsAndPremiumTaxes	0001193125-09-168413	Commissions and premium taxes	0
+0000831259-09-000076	4	16	EQ	0	X	StockIssuedDuringPeriodValueNewIssues	us-gaap/2009	Sale of common stock	0
+0000704051-09-000121	7	28	CF	0	X	ProceedsFromTheSaleOfAssets	0000704051-09-000121	Proceeds from the sale of assets	0
+0001047469-09-007382	2	3	BS	1	X	CommonStockSharesIssued	us-gaap/2009	Common stock, shares issued (in shares)	0
+0001193125-09-191566	1	27	BS	0	X	AdditionalPaidInCapital	us-gaap/2009	Additional paid-in capital	0
+0001047469-09-008166	4	14	CF	0	X	IncreaseDecreaseInOperatingCapitalAbstract	us-gaap/2009	Changes in operating assets and liabilities:	0
+0001193125-09-170563	4	72	CF	0	X	StockIssued	us-gaap/2008	Issuance of common stock for Sterling acquisition	0
+0001144204-09-040507	5	83	CF	0	X	IncreaseDecreaseInAccruedLiabilitiesAbstract	us-gaap/2009	Increase (Decrease) in Accrued Liabilities [Abstract]	0
+0001193125-09-168965	2	8	BS	0	X	OtherAssetsCurrent	us-gaap/2008	Other	0
+0000950123-09-031842	2	54	BS	0	X	LongTermDebtNoncurrentAbstract	us-gaap/2008	Long-term Debt, Noncurrent [Abstract]	0
+0000950123-09-031842	4	58	CF	0	X	PaymentOfFinancingAndStockIssuanceCostsAbstract	us-gaap/2008	Payment of Financing and Stock Issuance Costs [Abstract]	0
+0000930413-09-003987	4	17	CF	0	X	DepreciationAndAmortizationAbstract	us-gaap/2009	Depreciation, Depletion and Amortization [Abstract]	0
+0001144204-09-043912	2	4	BS	1	X	TreasuryStockShares	us-gaap/2009	Common stock shares held in treasury	0
+0000950123-09-034092	5	24	CF	0	X	PaymentsToAcquireBusinessesNetOfCashAcquired	us-gaap/2009	Business acquisition payments, net of cash acquired	1
+0001193125-09-169269	7	3	EQ	0	X	EquityComponentDomain	us-gaap/2008	Equity Component [Domain]	0
+0000950123-09-027482	4	21	IS	0	X	NetIncomeLoss	us-gaap/2009	Net income attributable to Waste Management, Inc.	0
+0000950123-09-026905	3	10	UN	0	X	IncomeTaxExpenseBenefit	us-gaap/2009	Income tax provision	0
+0001193125-09-166658	1	39	BS	0	X	TreasuryStockValue	us-gaap/2008	Common stock in treasury, at cost; 569.3 and 545.3 million shares	1
+0001104659-09-048234	1	9	BS	0	X	IntellectualPropertyLicensesCurrent	0001104659-09-048234	Intellectual property licenses	0
+0000950123-09-030389	4	26	EQ	0	X	SharesIssued	us-gaap/2008	Balance, June 30, 2009, Shares	0
+0001104659-09-048222	1	36	IS	0	X	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2009	Weighted average common shares outstanding - basic (in shares)	0
+0000922224-09-000082	3	17	BS	0	X	OtherAssetsCurrent	us-gaap/2009	Other	0
+0000950123-09-028851	3	35	BS	0	X	AccumulatedOtherComprehensiveIncomeLossDefinedBenefitPlansNetOfTax	0000950123-09-028851	Pension and Other Benefits	0
+0000950123-09-038240	8	42	CF	0	X	DepositsAndOtherAdditionsToInvestmentAndUniversalLifeTypeContracts	0000950123-09-038240	Deposits and Other Additions to Investment and Universal Life-type Contracts	0
+0001104659-09-053270	5	6	CF	0	X	EffectOfExchangeRateOnCashAndCashEquivalents	us-gaap/2009	Effect of exchange rate changes on cash	0
+0001193125-09-165368	4	4	CF	0	X	ProfitLoss	0001193125-09-165368	Net income	0
+0001193125-09-163472	6	26	CF	0	X	IncreaseDecreaseInOtherOperatingCapitalNet	us-gaap/2008	Other	1
+0001104659-09-048054	2	38	BS	0	X	AdditionalPaidInCapital	us-gaap/2009	Capital in excess of par value	0
+0000950123-09-035693	4	13	EQ	0	X	StockIssuedDuringPeriodValueShareBasedCompensation	us-gaap/2009	Stock compensation plans, including tax benefits	0
+0001047469-09-007013	2	25	BS	0	X	LiabilitiesCurrent	us-gaap/2009	TOTAL CURRENT LIABILITIES	0
+0000950123-09-028453	2	18	BS	0	X	LiabilitiesAndStockholdersEquityAbstract	us-gaap/2009	LIABILITIES AND SHAREHOLDERS' EQUITY	0
+0001145443-09-001878	8	58	CF	0	X	PaymentsToAcquireBusinessesAndInterestInAffiliatesAbstract	us-gaap/2009	Payments to Acquire Businesses and Interest in Affiliates [Abstract]	0
+0000950123-09-030426	7	29	CF	0	X	RepaymentsOfLongTermDebt	us-gaap/2009	Debt service payments	1
+0001193125-09-167427	3	41	BS	0	X	NonrecourseDebtNoncurrent	0001193125-09-167427	Non-recourse debt-noncurrent	0
+0001193125-09-167155	3	5	IS	0	X	SalesRevenueServicesNet	us-gaap/2008	Network development services	0
+0000950123-09-032702	4	12	CF	0	X	GainOnRetirementOfUnsecuredNotes	0000950123-09-032702	Gain on retirement of unsecured notes	0
+0001193125-09-163865	1	15	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2008	Net earnings available to common shareholders	0
+0001193125-09-167069	1	21	BS	0	X	LiabilitiesAbstract	us-gaap/2008	LIABILITIES	0
+0001193125-09-168935	3	23	BS	0	X	LiabilitiesAbstract	us-gaap/2008	Liabilities	0
+0001047469-09-007070	1	16	IS	0	X	MinorityInterestInNetIncomeLossOfConsolidatedEntities	us-gaap/2008	Minority interest	1
+0001031296-09-000021	3	59	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2009	Total liabilities and capitalization	0
+0001193125-09-169449	6	19	CF	0	X	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2008	Proceeds from maturities of held-to-maturity securities	0
+0000950123-09-032467	4	13	IS	0	X	SalesRevenueNet	us-gaap/2009	Total revenue	0
+0001031296-09-000021	5	22	CF	0	X	IncreaseDecreaseInAccountsPayableTrade	us-gaap/2009	Accounts payable	0
+0000950123-09-025764	1	38	IS	0	X	IncomeLossBeforeCumulativeEffectOfChangeInAccountingPrinciple	us-gaap/2008	Income (Loss) before Cumulative Effect of Change in Accounting Principle, Total	0
+0000885721-09-000063	4	6	EQ	0	X	AccumulatedOtherComprehensiveIncomeMember	us-gaap/2009	Accumulated Other Comprehensive Income	0
+0000950123-09-028453	3	2	BS	1	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-029672	5	13	IS	0	X	IncomeTaxExpenseBenefitPercentageIncreaseDecrease	0000950123-09-029672	Provision for taxes on income	0
+0001140361-09-017883	3	18	IS	0	X	InvestmentIncomeInterest	us-gaap/2009	Interest income	0
+0001144204-09-046684	4	35	CF	0	X	IncreaseDecreaseInOperatingLiabilitiesAbstract	us-gaap/2009	Increase (Decrease) in Operating Liabilities [Abstract]	0
+0001193125-09-160240	3	16	IS	0	X	NetIncomeLoss	us-gaap/2008	Net income (loss)	0
+0001193125-09-170002	1	32	IS	0	X	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2008	Average shares outstanding	0
+0001193125-09-167264	1	10	BS	0	X	RestrictedCashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash held in escrows	0
+0000049826-09-000066	2	56	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2009	Net Income (Loss) Available to Common Stockholders, Basic, Total	0
+0000950123-09-032827	5	5	CF	0	X	AdjustmentsNoncashItemsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Adjustments to reconcile net income to net cash provided by (used in) operating activities -	0
+0001193125-09-166658	1	32	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2008	Deferred income taxes	0
+0000314808-09-000067	5	33	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2009	Additions to property and equipment	1
+0001193125-09-180950	2	3	IS	0	X	RevenuesAbstract	us-gaap/2008	Revenues:	0
+0001193125-09-159678	1	13	BS	0	X	DeferredTaxAssetsNetCurrent	us-gaap/2008	Current portion of deferred tax assets	0
+0001193125-09-168917	3	22	BS	0	X	PropertyPlantAndEquipmentGenerationOrProcessing	0001193125-09-168917	Generation	0
+0001193125-09-169068	3	2	IS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000059558-09-000113	3	3	IS	0	X	RevenuesAbstract	us-gaap/2009	Revenues	0
+0000950123-09-045262	1	2	CP	0	X	EntityCentralIndexKey	dei/2009	Entity Central Index Key	0
+0000060086-09-000039	3	50	IS	0	X	DilutedNetIncomePerFormerCarolinaGroupShareAbstract	0000060086-09-000039	Diluted net income per former Carolina Group share:	0
+0001193125-09-167025	4	18	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2008	Cash flows from investing activities:	0
+0000950123-09-030360	2	21	BS	0	X	RestrictedCashAndInvestments	us-gaap/2009	Restricted cash and investments	0
+0000950123-09-027630	1	3	CP	0	X	DocumentType	dei/2009	Document Type	0
+0000950123-09-028717	5	12	CF	0	X	DeferredIncomeTaxExpenseBenefit	us-gaap/2008	Deferred income taxes	0
+0001047469-09-007134	2	51	BS	0	X	MinorityInterest	us-gaap/2009	Noncontrolling interests	0
+0000950123-09-031842	2	10	BS	0	X	DeferredTaxAssetsNetCurrent	us-gaap/2008	Deferred income taxes	0
+0001193125-09-159667	2	29	BS	0	X	DeferredRevenueCurrent	us-gaap/2008	Unearned royalties and other advances	0
+0001047469-09-007370	5	66	CF	0	X	ProceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNetAbstract	us-gaap/2009	Proceeds from Issuance of Long-term Debt and Capital Securities, Net [Abstract]	0
+0000950123-09-031224	2	14	BS	0	X	NaturalGasAndCrudeOilPropertiesUsingFullCostMethodAbstract	0000950123-09-031224	Natural gas and crude oil properties, using full cost method of accounting	0
+0001193125-09-154110	2	7	BS	0	X	OtherReceivables	us-gaap/2008	Other receivables	0
+0000060667-09-000096	1	15	BS	0	X	AccountsPayableCurrent	us-gaap/2009	Accounts payable	0
+0001193125-09-195193	3	2	IS	0	X	StatementLineItems	us-gaap/2009	Statement line items	0
+0001193125-09-170256	3	4	BS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001193125-09-175285	1	49	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	0001193125-09-175285	Total stockholders' equity	0
+0001193125-09-160729	4	39	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2008	Net cash (used in) provided by financing activities	0
+0001193125-09-187625	5	32	CF	0	X	SupplementalCashFlowInformationAbstract	us-gaap/2008	Supplemental information:	0
+0001193125-09-154009	1	21	BS	0	X	AccountsPayable	us-gaap/2008	Accounts payable	0
+0000004904-09-000117	2	14	BS	0	X	MarginDepositAssets	us-gaap/2009	Margin Deposits	0
+0001104659-09-046999	1	14	IS	0	X	DeferredPolicyAcquisitionCostAmortizationExpense	us-gaap/2009	Amortization of deferred acquisition costs	0
+0000950123-09-042090	7	18	CF	0	X	PrepaidIncomeTaxesAndAccruedIncomeTaxesPayable	0000950123-09-042090	Prepaid income taxes and accrued income taxes payable	0
+0001047469-09-007400	1	1	IS	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001047469-09-007075	2	19	BS	0	X	LiabilitiesCurrent	us-gaap/2009	Total current liabilities	0
+0000950123-09-030335	3	32	CF	0	X	IncreaseDecreaseInAccountsPayableTrade	us-gaap/2009	Accounts payable	1
+0000950123-09-032270	3	28	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterestAbstract	us-gaap/2009	Stockholders' Equity:	0
+0001104659-09-053270	1	47	BS	0	X	SecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2009	Securities sold under agreements to repurchase (portion measured at fair value: 2009 - $2,716; 2008 - $4,508)	0
+0000277948-09-000113	2	3	BS	0	X	AssetsCurrentAbstract	us-gaap/2008	Current Assets	0
+0000950123-09-032022	7	4	EQ	1	X	ParentCompanyMember	us-gaap/2009	Noble-Swiss	0
+0001193125-09-154110	2	33	BS	0	X	DefinedBenefitPensionPlanNoncurrentLiabilities	us-gaap/2008	Accrued pension benefits	0
+0001157523-09-005774	4	12	BS	0	X	LongTermInvestmentsAndReceivablesNet	us-gaap/2009	Long-term investments and loans	0
+0000950123-09-024563	3	18	BS	0	X	AccountsPayable	us-gaap/2008	Trade accounts payable	0
+0000314808-09-000067	5	52	CF	0	X	RepaymentsOfLongTermDebtAndCapitalSecuritiesAbstract	us-gaap/2009	Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities [Abstract]	0
+0000107815-09-000047	4	29	CF	0	X	NetCashProvidedByUsedInInvestingActivities	us-gaap/2009	Cash Used in Investing Activities	0
+0001157523-09-005813	4	20	IS	0	X	RevenueOtherFinancialServices	us-gaap/2009	Other	0
+0000950123-09-031774	5	14	CF	0	X	DistributionsFromAssociatedCompanies	0000950123-09-031774	Distributions from associated companies	0
+0001140361-09-017288	1	8	IS	0	X	InterestExpenseNet	0001140361-09-017288	Interest expense, net	0
+0000950123-09-029921	2	10	IS	0	X	OperatingExpensesAbstract	us-gaap/2009	Operating expenses:	0
+0001004980-09-000057	4	43	CF	0	X	CashPaidReceivedForAbstract	0001004980-09-000057	Cash received (paid) for	0
+0000922224-09-000082	2	28	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2009	Expenditures for property, plant and equipment	1
+0001193125-09-164943	5	7	CI	1	X	AccumulatedOtherComprehensiveIncomeMember	us-gaap/2008	Accumulated Other Comprehensive Earnings / (Losses)	0
+0001144204-09-046684	1	45	BS	0	X	LiabilityForUncertainTaxPositionsNoncurrent	us-gaap/2009	Non-current taxes	0
+0001193125-09-170647	1	45	BS	0	X	DerivativeLiabilitiesNoncurrent	us-gaap/2008	Long-term derivative instruments	0
+0000085408-09-000039	4	7	CF	0	X	PensionAndOtherPostretirementBenefitContributions	us-gaap/2009	Provision for pension and postretirement benefits	0
+0001144204-09-040507	1	4	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasicAbstract	us-gaap/2009	Net Income (Loss) Available to Common Stockholders, Basic [Abstract]	0
+0001193125-09-167271	3	9	IS	0	X	RealEstateTaxesAndInsurance	us-gaap/2008	Real estate taxes and insurance	0
+0001193125-09-165497	1	26	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2008	Other noncurrent liabilities	0
+0001104659-09-046901	4	19	IS	0	X	IncomeLossFromEquityMethodInvestments	us-gaap/2009	Equity investee (loss) earnings	0
+0001193125-09-170256	3	8	BS	0	X	AccountsReceivableNetCurrent	us-gaap/2008	Accounts receivable, less allowance for doubtful accounts of $11,598 and $12,341, respectively	0
+0000072207-09-000031	2	18	CF	0	X	GainLossOnSaleOfPropertyAbstract	us-gaap/2008	Gain (Loss) on Sale of Property [Abstract]	0
+0001047469-09-007384	3	58	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Total equity	0
+0001310243-09-000085	1	9	IS	0	X	CostOfGoodsSold	us-gaap/2008	Cost of Coal Sales (Exclusive of Items Shown Separately Below)	0
+0001157523-09-005774	5	32	CF	0	X	EffectOfExchangeRateOnCashAndCashEquivalents	us-gaap/2009	Effect of exchange-rate changes on cash and cash equivalents	0
+0001047469-09-007411	1	37	BS	0	X	Liabilities	us-gaap/2009	Total liabilities	0
+0000950123-09-029196	1	27	BS	0	X	StockholdersEquityAbstract	us-gaap/2008	Equity	0
+0001193125-09-165391	7	16	EQ	0	X	StockIssuedDuringPeriodSharesRestrictedStockAwardNetOfForfeitures	us-gaap/2008	Restricted stock grants, cancellations and withholdings, net	0
+0001193125-09-163299	6	33	CF	0	X	PaymentsForRepurchaseOfPreferredStockAndPreferenceStock	us-gaap/2008	Repurchase and retirement of preferred stock	1
+0001193125-09-166920	4	43	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2008	Cash flows from financing activities:	0
+0001193125-09-168492	1	11	IS	0	X	TaxesOtherThanIncomeExciseProductionAndPropertyTaxes	us-gaap/2008	Taxes, other than income taxes	0
+0001004980-09-000057	4	5	CF	0	X	AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Adjustments to reconcile net income to net cash provided by operating activities	0
+0001140361-09-017252	1	19	IS	0	X	LessNetIncomeAttributableToNoncontrollingInterests	0001140361-09-017252	Less: Net income attributable to noncontrolling interests	0
+0000950123-09-031817	3	1	BS	1	X	AllowanceForDoubtfulAccountsReceivableCurrent	us-gaap/2009	Allowance for Doubtful Accounts Receivable, Current	0
+0001104659-09-047410	1	10	BS	0	X	AvailableForSaleSecuritiesEquitySecurities	us-gaap/2009	Equity securities, available-for-sale	0
+0001140361-09-017223	3	1	BS	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0000950123-09-038201	6	63	CF	0	X	ProceedsFromIssuanceOrSaleOfEquityAbstract	us-gaap/2009	Proceeds from Issuance or Sale of Equity [Abstract]	0
+0001193125-09-165503	6	31	CF	0	X	ProceedsFromSaleOfAvailableForSaleSecurities	us-gaap/2008	Proceeds from sale of securities available for sale	0
+0000950123-09-024912	5	12	CF	0	X	ResearchAndDevelopmentInProcess	us-gaap/2008	In-process research and development	0
+0000950123-09-029919	6	6	CI	0	X	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2008	Net unrealized gains/(losses) on available-for-sale securities, net of tax	0
+0001144204-09-040507	5	46	CF	0	X	ProceedsFromRepaymentsOfDebtAbstract	us-gaap/2009	Proceeds from (Repayments of) Debt [Abstract]	0
+0001193125-09-168966	5	4	CF	0	X	NetIncomeLoss	us-gaap/2008	Net income	0
+0000950123-09-024448	4	19	CF	0	X	PaymentsToAcquireInvestments	us-gaap/2009	Investments in marketable debt and equity securities	1
+0001193125-09-161835	2	16	BS	0	X	AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment	us-gaap/2008	Less-Accumulated Depreciation, Depletion and Amortization	0
+0000950123-09-029190	4	6	IS	0	X	NetInvestmentIncome	us-gaap/2009	Net investment income	0
+0001193125-09-170759	1	18	BS	0	X	Assets	us-gaap/2009	TOTAL ASSETS	0
+0000950123-09-027482	6	27	EQ	0	X	CommonStockMember	us-gaap/2009	Common Stock	0
+0000930413-09-003976	2	6	IS	0	X	SellingGeneralAndAdministrativeExpense	us-gaap/2009	Operation and Maintenance	0
+0001104659-09-052668	4	50	CF	0	X	NetIncreaseDecreaseInCashAndCashEquivalentsfromContinuingOperations	0001104659-09-052668	Net increase in cash and cash equivalents from continuing operations	0
+0000930413-09-003869	3	19	BS	0	X	IntangibleAssetsNetExcludingGoodwill	us-gaap/2009	Intangible assets, net	0
+0001193125-09-183589	4	6	CF	0	X	DepreciationAndAmortizationAbstract	us-gaap/2009	Depreciation and amortization:	0
+0000097216-09-000168	2	26	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2009	Retirement plans and other	0
+0001193125-09-158007	2	3	BS	0	X	AssetsAbstract	us-gaap/2008	ASSETS	0
+0001104659-09-046329	2	45	BS	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Total equity	0
+0001047469-09-007384	5	30	CF	0	X	IncreaseDecreaseInAccountsPayableAndAccruedLiabilities	us-gaap/2009	Accounts payable and accrued liabilities	0
+0001193125-09-179839	4	39	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2008	Excess tax benefits on share-based compensation expense	0
+0001104659-09-045874	4	35	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2009	Proceeds from borrowings	0
+0000950123-09-029495	7	40	CF	0	X	NetCashProvidedByUsedInFinancingActivitiesAbstract	us-gaap/2009	Financing activities:	0
+0000950123-09-030415	4	24	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2009	Excess tax benefits from share-based payments	0
+0001104659-09-046901	3	2	BS	1	X	PreferredStockSharesAuthorized	us-gaap/2009	Preferred stock, shares authorized	0
+0000950123-09-032702	4	43	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents, end of period	0
+0000950123-09-027482	6	15	EQ	0	X	EquityBasedCompensationTransactionsIncludingDividendEquivalentsNetOfTaxesShares	0000950123-09-027482	Equity-based compensation transactions, including dividend equivalents, net of taxes, shares	0
+0000950123-09-032702	3	25	IS	0	X	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2009	Net income attributable to common stockholders	0
+0001193125-09-169081	4	24	EQ	0	X	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	0001193125-09-169081	Total comprehensive income (loss)	0
+0001193125-09-190034	3	9	CF	0	X	FairValueAdjustmentOfAcquiredInventory	0001193125-09-190034	Fair market value adjustment to Intel inventory sold	0
+0001193125-09-166920	1	39	BS	0	X	StockholdersEquity	us-gaap/2008	Total stockholders' equity	0
+0001193125-09-162284	3	33	CF	0	X	IncreaseDecreaseOfRestrictedInvestmentsXRX	0001193125-09-162284	Net change in escrow and other restricted investments	0
+0000732717-09-000050	4	31	CF	0	X	ProceedsFromSaleOfTreasuryStock	us-gaap/2009	Issuance of treasury shares	0
+0001193125-09-160870	2	12	BS	0	X	AccruedInvestmentIncomeReceivable	us-gaap/2008	Accrued investment income	0
+0001193125-09-167427	5	31	CF	0	X	LoanAdvances	0001193125-09-167427	Loan advances	1
+0000092230-09-000076	1	51	BS	0	X	AdditionalPaidInCapitalCommonStock	us-gaap/2008	Additional paid-in capital	0
+0001354488-09-001699	4	87	CF	0	X	ExcessTaxBenefitFromShareBasedCompensationFinancingActivities	us-gaap/2009	Excess tax benefits from employee stock plans	0
+0001193125-09-163472	6	39	CF	0	X	IncreaseDecreaseInFinancialServicesInvestingActivitiesAbstract	0001193125-09-163472	Financial services	0
+0000950123-09-031199	6	41	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipmentAbstract	us-gaap/2009	Investing Activities	0
+0000029915-09-000044	5	23	EQ	0	X	RetainedEarningsOther	0000029915-09-000044	Other	0
+0000037748-09-000037	3	3	UN	0	X	CapitalStock	0000037748-09-000037	Capital Stock	0
+0000909281-09-000056	1	23	IS	0	X	OperatingIncomeLoss	us-gaap/2009	Operating income	0
+0000085408-09-000039	2	2	UN	0	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0000950123-09-032199	1	18	IS	0	X	TotalOtherThanTemporaryImpairmentLosses	0000950123-09-032199	Total other-than-temporary impairment losses	1
+0000950123-09-029919	5	12	CF	0	X	EmployeeBenefitsAndShareBasedCompensationAbstract	us-gaap/2008	Employee Benefits and Share-based Compensation [Abstract]	0
+0001193125-09-168492	2	47	BS	0	X	RegulatoryLiabilityNoncurrent	us-gaap/2008	Regulatory liability	0
+0001047469-09-007343	6	35	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents at end of period	0
+0001193125-09-162171	4	36	CF	0	X	IncomeTaxesPaidNet	us-gaap/2008	Income taxes paid, net of refunds received	0
+0001193125-09-165368	4	19	CF	0	X	RepaymentsOfLongTermDebt	us-gaap/2008	Principal payments on long-term debt	1
+0000950123-09-032467	4	20	IS	0	X	SubscriberAcquisitionCostsAbstract	0000950123-09-032467	Subscriber acquisition costs:	0
+0001193125-09-168802	1	28	BS	0	X	OtherLiabilitiesNoncurrent	us-gaap/2008	Deferred credits and other liabilities	0
+0001193125-09-165497	3	28	IS	0	X	CommonStockDividendsPerShareDeclared	us-gaap/2008	Dividends declared per common share	0
+0001193125-09-173033	5	5	EQ	0	X	CommonStockMember	us-gaap/2008	Common Stock Amount	0
+0000930413-09-003869	5	30	CF	0	X	IncreaseDecreaseInAccountsPayableAndAccruedLiabilities	us-gaap/2009	Accounts payable and accrued expenses	0
+0000950123-09-027684	2	34	BS	0	X	StockholdersEquityAbstract	us-gaap/2009	STOCKHOLDERS' EQUITY	0
+0000004904-09-000117	2	19	BS	0	X	PublicUtilitiesPropertyPlantAndEquipmentGenerationOrProcessing	us-gaap/2009	Production	0
+0001193125-09-167427	3	16	BS	0	X	PropertyPlantAndEquipmentNetAbstract	us-gaap/2009	Property, plant and equipment:	0
+0000049826-09-000066	2	63	IS	0	X	IncomeAmountsAttributableToReportingEntityDisclosuresAbstract	us-gaap/2009	Income Amounts Attributable to Parent, Disclosures [Abstract]	0
+0001104659-09-046313	4	6	BS	0	X	InventoryNet	us-gaap/2008	Inventories	0
+0001193125-09-169079	4	30	CF	0	X	ProceedsFromRepaymentsOfShortTermDebt	us-gaap/2008	Increase in short-term debt and commercial paper, net	0
+0001193125-09-159615	1	29	IS	0	X	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2008	Basic	0
+0000950123-09-038497	2	34	IS	0	X	OtherNonoperatingIncomeExpenseAbstract	us-gaap/2009	Other Nonoperating Income (Expense) [Abstract]	0
+0001047469-09-006994	1	3	IS	0	X	CostOfRevenue	us-gaap/2009	Cost of sales (exclusive of depreciation and amortization)	0
+0000092230-09-000076	1	62	BS	0	X	DebtAndCapitalLeaseObligationsAbstract	us-gaap/2008	Debt and Capital Lease Obligations [Abstract]	0
+0000930413-09-003869	2	32	IS	0	X	OperatingIncomeLoss	us-gaap/2009	Operating Income	0
+0001104659-09-046313	1	12	IS	0	X	DepreciationAndAmortization	us-gaap/2008	Depreciation and amortization	0
+0000950123-09-038497	4	40	EQ	0	X	Dividends	us-gaap/2009	Dividends, Total	0
+0001193125-09-159399	4	46	CF	0	X	EffectOfExchangeRateOnCashAndCashEquivalents	us-gaap/2008	EFFECT OF EXCHANGE RATE CHANGES ON CASH	0
+0000950123-09-033506	3	47	BS	0	X	LongTermDebtAndCapitalLeaseObligations	us-gaap/2009	Long-term Debt	0
+0000950123-09-025125	1	6	CP	0	X	AmendmentDescription	dei/2009	Amendment Description	0
+0001193125-09-187481	6	35	CF	0	X	PaymentsToAcquireInterestInSubsidiariesAndAffiliates	us-gaap/2009	Capital contributions to FXMarketSpace Limited	1
+0000950123-09-032702	3	16	IS	0	X	IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Income from continuing operations	0
+0001193125-09-191566	3	23	IS	0	X	IncomeLossFromContinuingOperations	us-gaap/2009	Income from continuing operations, net of tax	0
+0000314808-09-000067	2	53	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntityAbstract	us-gaap/2009	Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent [Abstract]	0
+0001193125-09-168564	1	24	IS	0	X	IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments	us-gaap/2008	Income before taxes	0
+0001104659-09-048013	4	1	BS	1	X	AllowanceForDoubtfulAccountsReceivableCurrent	us-gaap/2009	Trade receivables allowances of $314,325 in 2009 and $263,632 in 2008 (in dollars)	0
+0000818479-09-000123	2	13	BS	0	X	Assets	us-gaap/2009	Total Assets	0
+0001104659-09-048161	3	23	IS	0	X	CommonStockDividendsPerShareDeclared	us-gaap/2009	Dividends declared per share (in dollars per share)	0
+0001354488-09-001699	4	131	CF	0	X	CapitalExpendituresIncurredButNotYetPaid	us-gaap/2009	Accrued capital asset additions	0
+0000950123-09-030370	3	12	IS	0	X	SellingGeneralAndAdministrativeExpense	us-gaap/2009	Selling, administrative and general expenses	0
+0001193125-09-154888	6	6	EQ	0	X	RetainedEarningsMember	us-gaap/2008	Retained Earnings	0
+0001104659-09-048657	4	23	CF	0	X	NetCashProvidedByUsedInOperatingActivities	us-gaap/2009	Cash used for operating activities	0
+0001193125-09-167271	5	95	CF	0	X	UnrealizedGainLossOnDerivativeInstrumentsOtherAssets	0001193125-09-167271	Other assets	0
+0000055785-09-000026	2	6	BS	0	X	ReceivablesNetCurrent	us-gaap/2009	Accounts receivable, net	0
+0000950123-09-031677	3	73	IS	0	X	EarningsPerShareAbstract	us-gaap/2009	Earnings Per Share [Abstract]	0
+0000950123-09-031199	6	66	CF	0	X	RepaymentsOfLongTermDebtAndCapitalSecuritiesAbstract	us-gaap/2009	Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities [Abstract]	0
+0001193125-09-154110	1	8	IS	0	X	RestructuringCharges	us-gaap/2008	Restructuring and other charges (D)	0
+0001104659-09-048054	2	10	BS	0	X	AssetsNoncurrentInvestmentsAndOtherAbstract	0001104659-09-048054	Investments and other assets:	0
+0001193125-09-166920	4	13	CF	0	X	ImpairmentOfInvestments	us-gaap/2008	Other-than-temporary impairment charges on cost-method investments	0
+0000950123-09-025125	1	3	CP	0	X	DocumentType	dei/2009	Document Type	0
+0001193125-09-154888	1	46	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare	us-gaap/2008	Loss from discontinued operations	0
+0001193125-09-189177	1	32	IS	0	X	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2009	Basic	0
+0001193125-09-174453	1	29	BS	0	X	LiabilitiesAndStockholdersEquity	us-gaap/2009	Total liabilities and stockholders' equity	0
+0000065984-09-000179	5	16	EQ	0	X	RetainedEarningsTotalAfterAdditions	0000065984-09-000179	Total after additions	0
+0000831259-09-000076	4	22	EQ	0	X	DividendsPreferredStockCash	us-gaap/2009	Dividends on preferred stock	0
+0001193125-09-168413	1	32	BS	0	X	Liabilities	us-gaap/2008	Total liabilities	0
+0000915389-09-000055	2	25	BS	0	X	Liabilities	us-gaap/2009	Liabilities, Total	0
+0001047469-09-007075	2	30	BS	0	X	AdditionalPaidInCapital	us-gaap/2009	Additional paid-in capital	0
+0001193125-09-153889	6	16	CF	0	X	IncreaseDecreaseInOperatingCapitalAbstract	us-gaap/2008	Changes in operating assets and liabilities:	0
+0001104659-09-052248	4	31	CF	0	X	ProceedsFromRepaymentsOfShortTermDebt	us-gaap/2009	Increase (decrease) in short-term borrowings	0
+0001193125-09-169269	7	31	EQ	0	X	MinorityInterestIncreaseFromStockIssuance	us-gaap/2008	Increases in non-controlling interests related to MSSB transaction	0
+0001193125-09-159615	1	19	IS	0	X	NetIncomeLoss	us-gaap/2008	Net income	0
+0000950123-09-041361	4	5	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2008	Net Cash Provided by (Used in) Operating Activities [Abstract]	0
+0000314808-09-000067	3	42	BS	0	X	DeferredTaxLiabilitiesNoncurrent	us-gaap/2009	Deferred income taxes	0
+0001193125-09-158844	3	19	CF	0	X	NetCashProvidedByUsedInOperatingActivities	us-gaap/2008	Net cash provided by operating activities	0
+0001193125-09-167276	5	38	CF	0	X	ProceedsFromLongTermLinesOfCredit	us-gaap/2008	Borrowings on unsecured line of credit	0
+0001193125-09-168553	2	13	BS	0	X	PropertyPlantAndEquipmentNet	us-gaap/2008	Property, plant and equipment, net of accumulated depreciation of $373.2 in 2009 and $332.2 in 2008	0
+0000821189-09-000047	1	2	IS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0001193125-09-162276	5	2	EQ	0	X	StatementEquityComponentsAxis	us-gaap/2008	Statement, Equity Components [Axis]	0
+0001193125-09-191566	5	57	CF	0	X	AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Adjustments to net income:	0
+0000950123-09-038497	3	4	CF	0	X	NetCashProvidedByUsedInOperatingActivitiesAbstract	us-gaap/2009	Operating Activities:	0
+0000950123-09-037848	1	13	CP	0	X	EntityCommonStockSharesOutstanding	dei/2009	Entity Common Stock, Shares Outstanding	0
+0000950123-09-032642	7	11	CI	1	X	ParentMember	us-gaap/2009	ParentMember	0
+0001193125-09-150935	3	42	BS	0	X	AdditionalPaidInCapital	us-gaap/2008	Additional paid-in-capital	0
+0001193125-09-170159	1	29	BS	0	X	CommonStockValue	us-gaap/2008	Common stock, $0.10 par value, 480,000 shares authorized; 176,128 shares issued; 168,538 and 170,437 shares outstanding	0
+0000930413-09-003987	2	4	IS	0	X	SalesRevenueServicesNet	us-gaap/2009	Service sales	0
+0001104659-09-048222	2	16	BS	0	X	Assets	us-gaap/2009	TOTAL ASSETS	0
+0001193125-09-168413	3	12	IS	0	X	OtherIncome	us-gaap/2008	Other income	0
+0001193125-09-167427	1	5	IS	0	X	ElectricalGenerationRevenue	us-gaap/2009	Non-regulated	0
+0000950123-09-029919	1	56	IS	0	X	CommonStockDividendsPerShareDeclared	us-gaap/2008	Dividends declared per common share	0
+0000950123-09-028099	2	18	BS	0	X	AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment	us-gaap/2009	Less allowances for depreciation	1
+0000950123-09-025125	2	43	BS	0	X	TreasuryStockValue	us-gaap/2009	Treasury stock, at cost (2009 - 39,373,898 shares; 2008 - 40,120,957 shares)	1
+0001169232-09-003553	1	5	IS	0	X	SalesRevenueServicesNet	us-gaap/2009	Services	0
+0001144204-09-040507	1	36	IS	0	X	IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntityAbstract	us-gaap/2009	Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent [Abstract]	0
+0001193125-09-169086	4	22	CF	0	X	ProceedsFromSaleOfPropertyPlantAndEquipment	us-gaap/2008	Proceeds from sale of property and equipment	0
+0001145443-09-001878	3	71	IS	0	X	MinorityInterestInNetIncomeLossOfConsolidatedEntitiesAbstract	us-gaap/2009	Net Income (Loss) Attributable to Noncontrolling Interest [Abstract]	0
+0001193125-09-165497	4	46	CF	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2008	Cash and cash equivalents at end of period	0
+0001193125-09-167427	5	22	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2009	Capital expenditures	1
+0000753308-09-000086	2	3	BS	0	X	propertyPlantAndEquipmentAbstract	0000753308-09-000086	PROPERTY, PLANT AND EQUIPMENT	0
+0000950123-09-035693	5	25	CF	0	X	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2009	Investments in other assets	0
+0001193125-09-168492	1	14	IS	0	X	OperatingIncomeLoss	us-gaap/2008	Operating Income	0
+0000049826-09-000066	1	7	CP	0	X	EntityWellKnownSeasonedIssuer	dei/2009	Entity Well-known Seasoned Issuer	0
+0001193125-09-162171	1	11	IS	0	X	IncomeTaxExpenseBenefit	us-gaap/2008	Provision for income taxes	0
+0001193125-09-156564	4	12	EQ	0	X	NoncontrollingInterestMember	us-gaap/2009	Noncontrolling Interests	0
+0000950123-09-032665	4	2	BS	1	X	StatementLineItems	us-gaap/2009	Statement [Line Items]	0
+0001104659-09-048054	2	24	BS	0	X	LiabilityForAsbestosRelatedLiabilitiesCurrent	0001104659-09-048054	Current portion of asbestos-related liabilities	0
+0000049826-09-000066	4	64	CF	0	X	PaymentsToAcquireInvestmentsAbstract	us-gaap/2009	Payments to Acquire Investments [Abstract]	0
+0000950123-09-029713	3	12	IS	0	X	SalesRevenueNet	us-gaap/2008	Sales and other operating revenues	0
+0000950123-09-039364	5	36	CF	0	X	CashAndCashEquivalentsPeriodIncreaseDecrease	us-gaap/2009	Net increase (decrease) in cash and cash equivalents	0
+0001047469-09-007400	3	23	BS	1	X	CommonStockSharesIssued	us-gaap/2009	Common stock, issued shares (in shares)	0
+0001193125-09-170623	6	26	CF	0	X	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2008	Purchase of securities held to maturity	1
+0000092230-09-000076	1	41	BS	0	X	ClientCertificatesOfDeposit	0000092230-09-000076	Client certificates of deposit	0
+0001047469-09-007343	4	3	BS	0	X	AssetsCurrentAbstract	us-gaap/2009	Current Assets	0
+0000950123-09-031842	1	30	IS	0	X	InterestAndDebtExpenseAbstract	us-gaap/2008	Interest and Debt Expense [Abstract]	0
+0001193125-09-169343	4	11	CF	0	X	GainsLossesOnExtinguishmentOfDebt	us-gaap/2008	Loss on extinguishment of convertible debt	1
+0001193125-09-170159	1	31	BS	0	X	AdditionalPaidInCapitalCommonStock	us-gaap/2008	Additional paid-in capital	0
+0001193125-09-171667	3	7	BS	1	X	PreferredStockSharesOutstanding	us-gaap/2008	Preferred stock, outstanding	0
+0001047469-09-007300	2	3	BS	0	X	CashAndCashEquivalentsAtCarryingValue	us-gaap/2009	Cash and cash equivalents	0
+0001193125-09-169378	2	21	BS	0	X	LiabilitiesCurrent	us-gaap/2008	Total current liabilities	0
+0000950123-09-032231	1	2	CP	0	X	EntityCentralIndexKey	dei/2008	Entity Central Index Key	0
+0001104659-09-047410	5	41	CF	0	X	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2009	Issuance of long-term debt	0
+0001193125-09-170393	3	18	IS	0	X	InterestIncomeExpenseNet	us-gaap/2008	Net interest income	0
+0000950123-09-024912	5	27	CF	0	X	PaymentsToAcquireBusinessesNetOfCashAcquired	us-gaap/2008	Net cash received from (paid for) acquired companies	1
+0000060086-09-000039	3	11	IS	0	X	TransactionalRealizedGainsLosses	0000060086-09-000039	Transactional realized investment gains	0
+0001047469-09-007382	1	26	BS	0	X	OtherLiabilitiesCurrent	us-gaap/2009	Other current liabilities	0
+0001140361-09-017252	2	36	BS	0	X	StockholdersEquityAbstract	us-gaap/2009	KBR Shareholders' equity	0
+0000950123-09-027482	3	1	BS	1	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0000950123-09-038339	1	4	IS	0	X	NetIncomeLossAbstract	us-gaap/2009	Net Income (Loss) Attributable to Parent [Abstract]	0
+0001193125-09-180950	1	2	BS	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0
+0000950123-09-032231	4	10	BS	1	X	AllowancesForLoanLossesFairValue	0000950123-09-032231	Loans, notes, and mortgages, at fair value	0
+0000950123-09-039236	2	39	IS	0	X	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2009	Diluted	0
+0001193125-09-167276	3	8	IS	0	X	RealEstateRevenueNet	us-gaap/2008	Total rental revenue	0
+0001193125-09-160797	1	9	IS	0	X	DepreciationAndAmortization	us-gaap/2008	Depreciation, depletion and amortization	0
+0001193125-09-162276	6	22	CF	0	X	ProceedsFromPaymentsForFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResellNet	us-gaap/2008	Net (Increase) Decrease in Federal Funds Sold and Securities Purchased under Agreements to Resell	0
+0001047469-09-007345	1	17	IS	0	X	ProfitLoss	us-gaap/2009	Net Income (Loss)	0
+0001104659-09-048741	4	19	CF	0	X	OtherAmortizationOfDeferredCharges	us-gaap/2009	Amortization of other deferred costs	0
+0001193125-09-169343	4	4	CF	0	X	ProfitLoss	0001193125-09-169343	Net earnings	0
+0001193125-09-156564	2	40	BS	0	X	ProgramRightsObligationsNoncurrent	0001193125-09-156564	Program rights obligations, noncurrent	0
+0001193125-09-153889	4	38	BS	0	X	StockholdersEquityAbstract	us-gaap/2008	Bristol-Myers Squibb Company Shareholders' Equity:	0
+0001193125-09-169196	5	38	EQ	0	X	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2009	Ending Balance	0
+0000950123-09-026905	2	8	UN	0	X	OperatingIncomeLossPercentToNetSales	0000950123-09-026905	% of sales	0
+0000950103-09-002146	2	13	BS	0	X	PropertyPlantAndEquipmentNet	us-gaap/2009	Property, plant and equipment, net	0
+0001193125-09-166917	1	16	IS	0	X	OtherNonoperatingIncomeExpense	us-gaap/2008	Other income, net	0
+0001193125-09-171667	3	11	BS	1	X	CommonStockSharesOutstanding	us-gaap/2008	Common stock, shares outstanding	0
+0001104659-09-046901	5	15	CF	0	X	IncreaseDecreaseInAccruedLiabilities	us-gaap/2009	Accrued liabilities	0
+0001193125-09-156720	3	5	IS	0	X	FoodAndBeverageRevenue	us-gaap/2008	Food and beverage	0
+0000732717-09-000050	1	13	IS	0	X	DepreciationDepletionAndAmortization	us-gaap/2009	Depreciation and amortization	0
+0001104659-09-047200	5	1	EQ	0	X	StatementTable	us-gaap/2009	Statement [Table]	0
+0001193125-09-166920	3	19	IS	0	X	RestructuringCharges	us-gaap/2008	Restructuring charge (Note 16)	0
+0001047469-09-008166	2	24	BS	0	X	RestructuringReserveCurrent	us-gaap/2009	Accrued restructuring	0
+0000950123-09-030389	5	107	CF	0	X	NetCashProvidedByUsedInFinancingActivities	us-gaap/2008	Net cash used in financing activities	0
+0001193125-09-162171	1	4	IS	0	X	CostOfGoodsSold	us-gaap/2008	Cost of products sold	0
+0001193125-09-169479	5	6	CI	1	X	CommonStockMember	us-gaap/2008	Common Stock	0
+0001193125-09-169449	1	21	IS	0	X	LaborAndRelatedExpense	us-gaap/2008	Salaries and employee benefits	0
+0000092230-09-000076	4	30	EQ	0	X	CashDividends	us-gaap/2008	Cash dividends declared on common stock	0
+0000950123-09-028388	5	26	CF	0	X	NetCashProvidedByUsedInInvestingActivitiesAbstract	us-gaap/2009	Cash flows from investing activities:	0
+0001193125-09-169479	4	32	EQ	0	X	StockIssuedDuringPeriodValueStockOptionsExercised	us-gaap/2008	Exercise of stock options and stock compensation expense	0
+0001193125-09-169196	5	5	EQ	0	X	CommonStockMember	us-gaap/2009	Common stock	0
+0000950123-09-034092	5	23	CF	0	X	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2009	Purchases of property, plant and equipment	1
+0000950123-09-032270	1	7	CP	0	X	EntityWellKnownSeasonedIssuer	dei/2009	Entity Well-known Seasoned Issuer	0
+0000085408-09-000039	1	6	BS	0	X	RawMaterialsAndSupplies	0000085408-09-000039	Inventories - raw materials and supplies	0
+0000950123-09-029672	6	23	CF	0	X	ProceedsFromSaleMaturityAndCollectionsOfInvestments	us-gaap/2009	Sales of investments	0
+0000950123-09-040402	5	51	CF	0	X	ProceedsFromSaleOfPropertyPlantAndEquipment	us-gaap/2009	Property disposals	0
+0001039684-09-000053	2	16	BS	0	X	InventoryNetAbstract	us-gaap/2009	Inventory, Net [Abstract]	0
+0001193125-09-165464	3	12	IS	0	X	DirectCostsOfLeasedAndRentedPropertyOrEquipment	us-gaap/2008	Property-level operating expenses	0
+0001193125-09-168413	4	2	CI	0	X	StatementLineItems	us-gaap/2008	Statement [Line Items]	0

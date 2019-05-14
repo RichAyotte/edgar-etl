@@ -1,0 +1,7 @@
+!config/default.js
+config/*
+*.sublime-project
+incoming/*
+node_modules
+test/coverage
+yarn-error.log
