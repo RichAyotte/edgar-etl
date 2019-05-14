@@ -28,7 +28,7 @@ git clone https://github.com/RichAyotte/edgar.git
 Change to the project directory and install node packages
 
 ```sh
-cd metar
+cd edgar
 yarn
 ```
 
