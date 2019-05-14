@@ -11,6 +11,7 @@ const fs = require('fs')
 const {promisify} = require('util')
 const {resolve: resolvePath} = require('path')
 const {Transform} = require('stream')
+const {oneLine} = require('common-tags')
 const extract = promisify(require('extract-zip'))
 
 const connectionPool = require('./lib/get-db-connection-pool')
@@ -89,7 +90,7 @@ const main = async () => {
 		, outputPath: `${baseIncomingPath}/${etlProcessRunId}`
 	})
 
-	// // Unzip
+	// Unzip
 	await extract(filePath, {
 		dir: `${baseIncomingPath}/${etlProcessRunId}`
 	})
@@ -115,21 +116,27 @@ const main = async () => {
 			, severity: 'info'
 		})
 
-		try {
-			await log({
-				etlProcessRunId
-				, status: 'completed'
-				, severity: 'info'
-			})
-		}
-		catch (error) {
-			console.log(error)
-		}
+		await log({
+			etlProcessRunId
+			, status: 'completed'
+			, severity: 'info'
+		})
 
 		console.log({
 			parsedRecordCount
 			, insertedRecordCount
 		})
+
+		await connectionPool.query(
+			oneLine`
+				UPDATE etl_process_runs
+				SET ended_at = NOW()
+				, status = 'completed'
+				WHERE (id = :etlProcessRunId)
+			`, {
+				etlProcessRunId
+			}
+		)
 
 		console.log(`ETL process run ID ${etlProcessRunId} has completed.`)
 		connectionPool.end()
